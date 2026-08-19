@@ -1,1091 +1,1049 @@
 {
   "items": [
     {
-      "description": "We use emoji to determine repository status.\n:green_circle: active repos (last commit date is less than 3 months)\n:yellow_circle: stale repos (last commit date is more than 6 months)\n:red_circle: inactive repos (last commit date is more than 1 year)\n:black_circle: repos that were superseded\n:blue_square: repos that were code completed\n:grey_question: repos that weren't found (broken link)",
-      "items": [],
-      "title": "Status Badges"
-    },
-    {
-      "description": "Source: Official WireGuard project website",
-      "items": [],
-      "title": "What is WireGuard"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wireproxy",
+              "description": "A userspace WireGuard client that connects to a WireGuard peer, and exposes a SOCKS5 proxy. (Use cases: Setting up WG as a VPN requires special privilege. It tells the kernel to create a special network interface to handle WG connection. This can get messy if you do not have any special permission (i.e., root), if you do not have proper firewall configuration, or if you want to connect to multiple WG peers at once. wireproxy static tunneling is basically openssh , which supports SOCKS5 protocols.) :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468743437,
+                "language": "Go",
+                "last_commit": "2026-08-17T09:53:25Z",
+                "owner": "windtf",
+                "repo": "wireproxy",
+                "stars": 5760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coder/wush",
+              "description": "Simplest and fastest way to transfer files between computers via WireGuard. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820652738,
+                "language": "Go",
+                "last_commit": "2025-07-28T09:57:34Z",
+                "owner": "coder",
+                "repo": "wush",
+                "stars": 1458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "easy-wg-quick",
+              "description": "Creates Wireguard configuration for hub and peers with ease. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171384618,
+                "language": "Shell",
+                "last_commit": "2026-08-10T21:17:44Z",
+                "owner": "burghardt",
+                "repo": "easy-wg-quick",
+                "stars": 1118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sandialabs/wiretap",
+              "description": "Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567938688,
+                "language": "Go",
+                "last_commit": "2026-07-30T19:07:41Z",
+                "owner": "sandialabs",
+                "repo": "wiretap",
+                "stars": 1105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "onetun",
+              "description": "A user-space WireGuard port-forwarder -- access ports running on peers in your WireGuard network from any device; without having to install WireGuard locally or without root access (no iptables configs). :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 415708517,
+                "language": "Rust",
+                "last_commit": "2025-10-20T16:30:40Z",
+                "owner": "aramperes",
+                "repo": "onetun",
+                "stars": 1042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wgctrl",
+              "description": "Package wgctrl enables control of WireGuard interfaces on multiple platforms. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141834498,
+                "language": "Go",
+                "last_commit": "2024-12-31T18:45:29Z",
+                "owner": "WireGuard",
+                "repo": "wgctrl-go",
+                "stars": 913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dsnet",
+              "description": "Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239564831,
+                "language": "Go",
+                "last_commit": "2026-05-17T21:02:24Z",
+                "owner": "naggie",
+                "repo": "dsnet",
+                "stars": 754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wireguard-manager-and-api",
+              "description": "A tool for rotating the keys on peers to increase their privacy by removing their IP address from memory. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393136189,
+                "language": "Go",
+                "last_commit": "2022-06-23T18:43:14Z",
+                "owner": "Mawthuq-Software",
+                "repo": "Wireguard-Manager-and-API",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wgzero",
+              "description": "Zero overhead wireguard setup. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 348013273,
+                "language": "Shell",
+                "last_commit": "2022-02-15T12:16:47Z",
+                "owner": "finzzz",
+                "repo": "wgzero",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wg-make",
+              "description": "A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266009772,
+                "language": "Go",
+                "last_commit": "2020-06-05T08:32:08Z",
+                "owner": "tevino",
+                "repo": "wg-make",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Headscale",
+              "description": "An open source implementation of the Tailscale control server. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273871859,
+                "language": "Go",
+                "last_commit": "2026-07-30T10:20:13Z",
+                "owner": "juanfont",
+                "repo": "headscale",
+                "stars": 42998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NetBird",
+              "description": "(Previously Wiretrustee) NetBird is an open-source VPN management platform built on top of WireGuard® making it easy to create secure private networks for your organization or home. Technically, it creates an overlay network using ICE protocol (WebRTC) to negotiate P2P connections and WG (kernel module, when possible) to create a fast and encrypted tunnel between machines, falling back to relay (TURN) in case a P2P connection isn't possible. Pretty much just a client app is needed, the rest is done by the software. Their vision is to go beyond traditional VPN by bringing advanced NetSec (Zero Trust security model) like OpenZiti. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357897199,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:41:26Z",
+                "owner": "netbirdio",
+                "repo": "netbird",
+                "stars": 28504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gravitl/netmaker",
+              "description": "Netmaker is a VPN platform that automates WireGuard from homelab to enterprise. The key distinctions in their solutions are: fast because it can use kernel WireGuard (instead of userspace WireGuard, which is slower), tailored towards the Cloud and Kubernetes, and fully self-hostable. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351486934,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:40:08Z",
+                "owner": "gravitl",
+                "repo": "netmaker",
+                "stars": 11756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "innernet",
+              "description": "A private network system that uses WireGuard under the hood. It is similar in its goals to Slack's nebula or Tailscale. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352725385,
+                "language": "Rust",
+                "last_commit": "2026-07-28T12:00:53Z",
+                "owner": "tonarino",
+                "repo": "innernet",
+                "stars": 5531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kilo",
+              "description": "Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg). :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162610275,
+                "language": "Go",
+                "last_commit": "2026-08-11T04:50:24Z",
+                "owner": "squat",
+                "repo": "kilo",
+                "stars": 2280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wesher",
+              "description": "wesher creates and manages an encrypted mesh overlay network across a group of nodes. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177878291,
+                "language": "Go",
+                "last_commit": "2025-02-17T04:13:13Z",
+                "owner": "costela",
+                "repo": "wesher",
+                "stars": 988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HarvsG/WireGuardMeshes",
+              "description": "Compare WireGuard mesh tools. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434181676,
+                "language": null,
+                "last_commit": "2024-12-15T14:09:01Z",
+                "owner": "HarvsG",
+                "repo": "WireGuardMeshes",
+                "stars": 651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "svenstaro/wiresmith",
+              "description": "Auto-config WireGuard clients into a mesh :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614620727,
+                "language": "Rust",
+                "last_commit": "2026-08-01T03:07:48Z",
+                "owner": "svenstaro",
+                "repo": "wiresmith",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mesh Network"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Algo VPN",
+              "description": "Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58842707,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:43:19Z",
+                "owner": "trailofbits",
+                "repo": "algo",
+                "stars": 30355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firezone",
+              "description": "An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257787813,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T09:05:09Z",
+                "owner": "firezone",
+                "repo": "firezone",
+                "stars": 9038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WireHole",
+              "description": "A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292471955,
+                "language": null,
+                "last_commit": "2026-08-19T04:11:23Z",
+                "owner": "IAmStoxe",
+                "repo": "wirehole",
+                "stars": 4967
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seashell/drago",
+              "description": "A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232603789,
+                "language": "Go",
+                "last_commit": "2023-10-13T08:01:54Z",
+                "owner": "seashell",
+                "repo": "drago",
+                "stars": 1119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudblock",
+              "description": "Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241555935,
+                "language": "HCL",
+                "last_commit": "2024-07-06T17:46:09Z",
+                "owner": "chadgeary",
+                "repo": "cloudblock",
+                "stars": 860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ansible-role-wireguard",
+              "description": "Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141044491,
+                "language": "Jinja",
+                "last_commit": "2026-06-15T18:43:24Z",
+                "owner": "githubixx",
+                "repo": "ansible-role-wireguard",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "freifunkMUC/wg-access-server",
+              "description": "An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous. :green_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342358823,
+                "language": "Go",
+                "last_commit": "2026-08-12T06:20:47Z",
+                "owner": "freifunkMUC",
+                "repo": "wg-access-server",
+                "stars": 687
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WirtBot",
+              "description": "Think of it as a component that will allow you to extend your LAN over the Internet. WirtBot simplifies the process of creating your own private network into 3 steps. No registration, no accounts - Just a network that belongs to you. And it will always be completely free (except for the server/VPS you run it on). :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 260530988,
+                "language": "JavaScript",
+                "last_commit": "2023-01-11T15:36:26Z",
+                "owner": "b-m-f",
+                "repo": "WirtBot",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autowire",
+              "description": "Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160929895,
+                "language": "Go",
+                "last_commit": "2022-02-26T13:06:00Z",
+                "owner": "elghazal-a",
+                "repo": "autowire",
+                "stars": 217
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "linuxserver/docker-wireguard",
+                  "description": "A WireGuard container image brought to you by LinuxServer.io. Not all image authors are as great as LinuxServer.io team. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 251491969,
+                    "language": "Dockerfile",
+                    "last_commit": "2026-08-06T13:08:13Z",
+                    "owner": "linuxserver",
+                    "repo": "docker-wireguard",
+                    "stars": 3632
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cmulk/wireguard-docker",
+                  "description": "A Docker image and configuration for a simple personal VPN, used for the goal of security over insecure (public) networks, not necessarily for Internet anonymity. There are currently 3 flavors. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 163534376,
+                    "language": "Shell",
+                    "last_commit": "2022-01-19T02:10:52Z",
+                    "owner": "cmulk",
+                    "repo": "wireguard-docker",
+                    "stars": 345
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "masipcat/wireguard-go-docker",
+                  "description": "WireGuard docker image. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 176550385,
+                    "language": "Go",
+                    "last_commit": "2026-03-21T22:56:52Z",
+                    "owner": "masipcat",
+                    "repo": "wireguard-go-docker",
+                    "stars": 209
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bitwister/twine",
+                  "description": "Label based route/port forwarding management tool for Docker that can be used to easily route traffic of containers from/to Wireguard container, while preserving full network isolation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 603875171,
+                    "language": "TypeScript",
+                    "last_commit": "2025-08-25T08:26:38Z",
+                    "owner": "bitwister",
+                    "repo": "twine",
+                    "stars": 14
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Container"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "angristan/WireGuard-install",
+                  "description": "WireGuard VPN installer for Linux servers. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 185017902,
+                    "language": "Shell",
+                    "last_commit": "2026-05-02T15:59:41Z",
+                    "owner": "angristan",
+                    "repo": "wireguard-install",
+                    "stars": 11238
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PiVPN",
+                  "description": "The Simplest VPN installer (scripts), designed for Raspberry Pi. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56450375,
+                    "language": "Shell",
+                    "last_commit": "2026-08-19T08:07:21Z",
+                    "owner": "pivpn",
+                    "repo": "pivpn",
+                    "stars": 8034
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tun2socks",
+                  "description": "Powered by gVisor TCP/IP stack. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197113333,
+                    "language": "Go",
+                    "last_commit": "2026-08-08T01:50:04Z",
+                    "owner": "xjasonlyu",
+                    "repo": "tun2socks",
+                    "stars": 5446
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nyr/wireguard-install",
+                  "description": "WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 260286392,
+                    "language": "Shell",
+                    "last_commit": "2026-07-02T17:56:47Z",
+                    "owner": "Nyr",
+                    "repo": "wireguard-install",
+                    "stars": 4923
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WireGuard-Manager",
+                  "description": "enables you to build your own vpn under a minute. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255674828,
+                    "language": "Shell",
+                    "last_commit": "2025-12-15T17:02:38Z",
+                    "owner": "complexorganizations",
+                    "repo": "wireguard-manager",
+                    "stars": 1857
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wg-meshconf",
+                  "description": "WireGuard full mesh configuration generator. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 152439559,
+                    "language": "Python",
+                    "last_commit": "2024-05-05T16:30:43Z",
+                    "owner": "k4yt3x",
+                    "repo": "wg-meshconf",
+                    "stars": 1048
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AndrianBdn/wg-cmd",
+                  "description": "WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 587747920,
+                    "language": "Go",
+                    "last_commit": "2026-07-07T10:11:51Z",
+                    "owner": "AndrianBdn",
+                    "repo": "wg-cmd",
+                    "stars": 223
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "psyhomb/wireguard-tools",
+                  "description": "WireGuard helper scripts. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 270302282,
+                    "language": "Shell",
+                    "last_commit": "2023-11-10T09:29:42Z",
+                    "owner": "psyhomb",
+                    "repo": "wireguard-tools",
+                    "stars": 197
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "docker-wireguard-socks-proxy",
+                  "description": "Expose a WireGuard tunnel as a SOCKS5 proxy. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 213676084,
+                    "language": "Dockerfile",
+                    "last_commit": "2019-10-08T15:17:01Z",
+                    "owner": "kizzx2",
+                    "repo": "docker-wireguard-socks-proxy",
+                    "stars": 171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "guard",
+                  "description": "A gRPC server for managing wireguard tunnels. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 196384008,
+                    "language": "Go",
+                    "last_commit": "2021-05-03T16:51:22Z",
+                    "owner": "stellarproject",
+                    "repo": "guard",
+                    "stars": 84
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wiresteward",
+                  "description": "A WireGuard peer manager with OAuth2 authentication. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 208277557,
+                    "language": "Go",
+                    "last_commit": "2026-08-11T10:12:55Z",
+                    "owner": "utilitywarehouse",
+                    "repo": "wiresteward",
+                    "stars": 84
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wgctl",
+                  "description": "Utility to configure and manage your WireGuard tunnels. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144188659,
+                    "language": "Go",
+                    "last_commit": "2023-03-06T23:26:14Z",
+                    "owner": "apognu",
+                    "repo": "wgctl",
+                    "stars": 68
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "b-m-f/wired",
+                  "description": "WireGuard network configuration generator with support for multiple topologies written in Rust :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 586558845,
+                    "language": "Rust",
+                    "last_commit": "2026-04-09T10:17:25Z",
+                    "owner": "b-m-f",
+                    "repo": "wired",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "muiquq/wgcfghelp",
+                  "description": "Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 776021839,
+                    "language": "C#",
+                    "last_commit": "2024-09-09T11:46:19Z",
+                    "owner": "muqiuq",
+                    "repo": "wgcfghelp",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Terminal / CLI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "wg-easy/wg-easy",
+                  "description": "The easiest way to run WireGuard VPN + Web-based Admin UI. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 369764441,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T08:08:12Z",
+                    "owner": "wg-easy",
+                    "repo": "wg-easy",
+                    "stars": 26695
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wireguard-ui",
+                  "description": "Simple, have empty interfaces for authentication :yellow_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 256406208,
+                    "language": "Go",
+                    "last_commit": "2024-08-09T14:26:26Z",
+                    "owner": "ngoduykhanh",
+                    "repo": "wireguard-ui",
+                    "stars": 5142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Subspace",
+                  "description": "A simple WireGuard VPN server GUI. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 244415543,
+                    "language": "HTML",
+                    "last_commit": "2024-06-13T19:26:27Z",
+                    "owner": "subspacecommunity",
+                    "repo": "subspace",
+                    "stars": 1805
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "h44z/wg-portal",
+                  "description": "Supports LDAP and more :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 310385727,
+                    "language": "Go",
+                    "last_commit": "2026-08-17T13:55:18Z",
+                    "owner": "h44z",
+                    "repo": "wg-portal",
+                    "stars": 1798
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vx3r/wg-gen-web",
+                  "description": "Simple Web based configuration generator for WireGuard. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 237155370,
+                    "language": "Go",
+                    "last_commit": "2024-05-07T15:15:00Z",
+                    "owner": "vx3r",
+                    "repo": "wg-gen-web",
+                    "stars": 1704
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WireGuard UI",
+                  "description": "WireGuard Web UI for self-serve client configurations, with optional auth. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 184240717,
+                    "language": "Go",
+                    "last_commit": "2023-04-12T08:45:42Z",
+                    "owner": "EmbarkStudios",
+                    "repo": "wg-ui",
+                    "stars": 1518
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "brsyuksel/wghttp",
+                  "description": "A http server helps managing wireguard devices and peers on kernel level. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 570178418,
+                    "language": "Rust",
+                    "last_commit": "2026-07-27T08:06:09Z",
+                    "owner": "brsyuksel",
+                    "repo": "wghttp",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TunnlTo/desktop-app",
+                  "description": "TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 559766972,
+                    "language": null,
+                    "last_commit": "2026-04-14T05:58:23Z",
+                    "owner": "TunnlTo",
+                    "repo": "desktop-app",
+                    "stars": 1963
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "network-manager-wireguard",
+                  "description": "Network-Manager VPN Plugin for WireGuard. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121376654,
+                    "language": "C",
+                    "last_commit": "2023-06-14T07:26:21Z",
+                    "owner": "max-moser",
+                    "repo": "network-manager-wireguard",
+                    "stars": 468
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WireGuardStatusbar",
+                  "description": "macOS menubar icon for WireGuard/wg-quick. :black_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144458665,
+                    "language": "Swift",
+                    "last_commit": "2025-05-12T09:59:27Z",
+                    "owner": "aequitas",
+                    "repo": "macos-menubar-wireguard",
+                    "stars": 271
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Desktop"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "User Interface"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mullvad",
+                  "description": "green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114742422,
+                    "language": "Rust",
+                    "last_commit": "2026-08-19T09:42:55Z",
+                    "owner": "mullvad",
+                    "repo": "mullvadvpn-app",
+                    "stars": 7479
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MozWire",
+                  "description": "An unofficial configuration manager giving Linux, macOS users (among others), access to Mozilla VPN. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 287787250,
+                    "language": "Rust",
+                    "last_commit": "2025-01-04T20:21:09Z",
+                    "owner": "NilsIrl",
+                    "repo": "MozWire",
+                    "stars": 634
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LNVPN",
+                  "description": "A wireguard VPN provider with Ligthning only payments, pay as you use. :red_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 476321185,
+                    "language": "JavaScript",
+                    "last_commit": "2025-03-26T20:17:27Z",
+                    "owner": "LightRider5",
+                    "repo": "lnvpn",
+                    "stars": 76
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "VPN"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Services based on WireGuard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "boringtun",
+              "description": "Userspace WireGuard implementation in Rust by Cloudflare. :yellow_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152798409,
+                "language": "Rust",
+                "last_commit": "2026-06-29T06:18:56Z",
+                "owner": "cloudflare",
+                "repo": "boringtun",
+                "stars": 7175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ciniml/WireGuard-ESP32-Arduino",
+              "description": "WireGuard implementation for ESP32 Arduino in C. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387251671,
+                "language": "C",
+                "last_commit": "2024-04-01T13:57:36Z",
+                "owner": "ciniml",
+                "repo": "WireGuard-ESP32-Arduino",
+                "stars": 959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "smartalock/wireguard-lwip",
+              "description": "A C implementation of the WireGuard protocol intended to be used with the lwIP IP stack. :yellow_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330684585,
+                "language": "C",
+                "last_commit": "2026-08-14T08:41:42Z",
+                "owner": "smartalock",
+                "repo": "wireguard-lwip",
+                "stars": 257
+              }
+            }
+          ],
+          "description": "Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C and Go, other implementations include:",
+          "node_type": "group",
+          "title": "Alternative Implementations"
+        }
+      ],
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "wireproxy",
-          "description": "A userspace WireGuard client that connects to a WireGuard peer, and exposes a SOCKS5 proxy. (Use cases: Setting up WG as a VPN requires special privilege. It tells the kernel to create a special network interface to handle WG connection. This can get messy if you do not have any special permission (i.e., root), if you do not have proper firewall configuration, or if you want to connect to multiple WG peers at once. wireproxy static tunneling is basically openssh , which supports SOCKS5 protocols.) :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T09:53:25Z",
-            "owner": "windtf",
-            "repo": "wireproxy",
-            "stars": 5755
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coder/wush",
-          "description": "Simplest and fastest way to transfer files between computers via WireGuard. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-07-28T09:57:34Z",
-            "owner": "coder",
-            "repo": "wush",
-            "stars": 1458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "easy-wg-quick",
-          "description": "Creates Wireguard configuration for hub and peers with ease. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-10T21:17:44Z",
-            "owner": "burghardt",
-            "repo": "easy-wg-quick",
-            "stars": 1118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sandialabs/wiretap",
-          "description": "Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-30T19:07:41Z",
-            "owner": "sandialabs",
-            "repo": "wiretap",
-            "stars": 1105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "onetun",
-          "description": "A user-space WireGuard port-forwarder -- access ports running on peers in your WireGuard network from any device; without having to install WireGuard locally or without root access (no iptables configs). :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-10-20T16:30:40Z",
-            "owner": "aramperes",
-            "repo": "onetun",
-            "stars": 1042
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wgctrl",
-          "description": "Package wgctrl enables control of WireGuard interfaces on multiple platforms. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-12-31T18:45:29Z",
-            "owner": "WireGuard",
-            "repo": "wgctrl-go",
-            "stars": 913
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dsnet",
-          "description": "Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-17T21:02:24Z",
-            "owner": "naggie",
-            "repo": "dsnet",
-            "stars": 754
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wireguard-manager-and-api",
-          "description": "A tool for rotating the keys on peers to increase their privacy by removing their IP address from memory. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-06-23T18:43:14Z",
-            "owner": "Mawthuq-Software",
-            "repo": "Wireguard-Manager-and-API",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wgzero",
-          "description": "Zero overhead wireguard setup. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2022-02-15T12:16:47Z",
-            "owner": "finzzz",
-            "repo": "wgzero",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wg-make",
-          "description": "A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-06-05T08:32:08Z",
-            "owner": "tevino",
-            "repo": "wg-make",
-            "stars": 22
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Routing Docker Host And Container Traffic Through WireGuard",
+              "description": "using WireGuard Docker image by linuxserver.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251491969,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-06T13:08:13Z",
+                "owner": "linuxserver",
+                "repo": "docker-wireguard",
+                "stars": 3632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fly-Tailscale-Exit",
+              "description": "Run your own VPN with global exit nodes with Fly.io, Tailscale and Github.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396060550,
+                "language": "Shell",
+                "last_commit": "2026-08-09T00:05:56Z",
+                "owner": "patte",
+                "repo": "fly-tailscale-exit",
+                "stars": 1659
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Headscale",
-          "description": "An open source implementation of the Tailscale control server. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-30T10:20:13Z",
-            "owner": "juanfont",
-            "repo": "headscale",
-            "stars": 42965
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NetBird",
-          "description": "(Previously Wiretrustee) NetBird is an open-source VPN management platform built on top of WireGuard® making it easy to create secure private networks for your organization or home. Technically, it creates an overlay network using ICE protocol (WebRTC) to negotiate P2P connections and WG (kernel module, when possible) to create a fast and encrypted tunnel between machines, falling back to relay (TURN) in case a P2P connection isn't possible. Pretty much just a client app is needed, the rest is done by the software. Their vision is to go beyond traditional VPN by bringing advanced NetSec (Zero Trust security model) like OpenZiti. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:52:33Z",
-            "owner": "netbirdio",
-            "repo": "netbird",
-            "stars": 28469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gravitl/netmaker",
-          "description": "Netmaker is a VPN platform that automates WireGuard from homelab to enterprise. The key distinctions in their solutions are: fast because it can use kernel WireGuard (instead of userspace WireGuard, which is slower), tailored towards the Cloud and Kubernetes, and fully self-hostable. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:02:12Z",
-            "owner": "gravitl",
-            "repo": "netmaker",
-            "stars": 11756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "innernet",
-          "description": "A private network system that uses WireGuard under the hood. It is similar in its goals to Slack's nebula or Tailscale. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-28T12:00:53Z",
-            "owner": "tonarino",
-            "repo": "innernet",
-            "stars": 5527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kilo",
-          "description": "Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg). :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T04:50:24Z",
-            "owner": "squat",
-            "repo": "kilo",
-            "stars": 2280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wesher",
-          "description": "wesher creates and manages an encrypted mesh overlay network across a group of nodes. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-02-17T04:13:13Z",
-            "owner": "costela",
-            "repo": "wesher",
-            "stars": 988
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HarvsG/WireGuardMeshes",
-          "description": "Compare WireGuard mesh tools. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-15T14:09:01Z",
-            "owner": "HarvsG",
-            "repo": "WireGuardMeshes",
-            "stars": 651
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "svenstaro/wiresmith",
-          "description": "Auto-config WireGuard clients into a mesh :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-01T03:07:48Z",
-            "owner": "svenstaro",
-            "repo": "wiresmith",
-            "stars": 147
-          }
-        }
-      ],
-      "title": "Mesh Network"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Algo VPN",
-          "description": "Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T08:46:21Z",
-            "owner": "trailofbits",
-            "repo": "algo",
-            "stars": 30354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firezone",
-          "description": "An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T09:29:39Z",
-            "owner": "firezone",
-            "repo": "firezone",
-            "stars": 9036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WireHole",
-          "description": "A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T21:41:59Z",
-            "owner": "IAmStoxe",
-            "repo": "wirehole",
-            "stars": 4967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "seashell/drago",
-          "description": "A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-10-13T08:01:54Z",
-            "owner": "seashell",
-            "repo": "drago",
-            "stars": 1119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloudblock",
-          "description": "Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2024-07-06T17:46:09Z",
-            "owner": "chadgeary",
-            "repo": "cloudblock",
-            "stars": 860
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ansible-role-wireguard",
-          "description": "Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jinja",
-            "last_commit": "2026-06-15T18:43:24Z",
-            "owner": "githubixx",
-            "repo": "ansible-role-wireguard",
-            "stars": 694
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "freifunkMUC/wg-access-server",
-          "description": "An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T06:20:47Z",
-            "owner": "freifunkMUC",
-            "repo": "wg-access-server",
-            "stars": 687
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WirtBot",
-          "description": "Think of it as a component that will allow you to extend your LAN over the Internet. WirtBot simplifies the process of creating your own private network into 3 steps. No registration, no accounts - Just a network that belongs to you. And it will always be completely free (except for the server/VPS you run it on). :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-01-11T15:36:26Z",
-            "owner": "b-m-f",
-            "repo": "WirtBot",
-            "stars": 242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Autowire",
-          "description": "Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-02-26T13:06:00Z",
-            "owner": "elghazal-a",
-            "repo": "autowire",
-            "stars": 217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-aws-wireguard",
-          "description": "Terraform module to deploy WireGuard on AWS. :red_circle:",
-          "children": []
-        }
-      ],
-      "title": "Deployment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "linuxserver/docker-wireguard",
-          "description": "A WireGuard container image brought to you by LinuxServer.io. Not all image authors are as great as LinuxServer.io team. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-08-06T13:08:13Z",
-            "owner": "linuxserver",
-            "repo": "docker-wireguard",
-            "stars": 3633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cmulk/wireguard-docker",
-          "description": "A Docker image and configuration for a simple personal VPN, used for the goal of security over insecure (public) networks, not necessarily for Internet anonymity. There are currently 3 flavors. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2022-01-19T02:10:52Z",
-            "owner": "cmulk",
-            "repo": "wireguard-docker",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "masipcat/wireguard-go-docker",
-          "description": "WireGuard docker image. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-21T22:56:52Z",
-            "owner": "masipcat",
-            "repo": "wireguard-go-docker",
-            "stars": 209
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bitwister/twine",
-          "description": "Label based route/port forwarding management tool for Docker that can be used to easily route traffic of containers from/to Wireguard container, while preserving full network isolation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-25T08:26:38Z",
-            "owner": "bitwister",
-            "repo": "twine",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Container"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Protocol"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Encryption"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Runtime"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "User Interface"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "angristan/WireGuard-install",
-          "description": "WireGuard VPN installer for Linux servers. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-02T15:59:41Z",
-            "owner": "angristan",
-            "repo": "wireguard-install",
-            "stars": 11233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PiVPN",
-          "description": "The Simplest VPN installer (scripts), designed for Raspberry Pi. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-30T18:21:31Z",
-            "owner": "pivpn",
-            "repo": "pivpn",
-            "stars": 8033
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tun2socks",
-          "description": "Powered by gVisor TCP/IP stack. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-08T01:50:04Z",
-            "owner": "xjasonlyu",
-            "repo": "tun2socks",
-            "stars": 5446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nyr/wireguard-install",
-          "description": "WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-02T17:56:47Z",
-            "owner": "Nyr",
-            "repo": "wireguard-install",
-            "stars": 4921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WireGuard-Manager",
-          "description": "enables you to build your own vpn under a minute. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-12-15T17:02:38Z",
-            "owner": "complexorganizations",
-            "repo": "wireguard-manager",
-            "stars": 1857
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wg-meshconf",
-          "description": "WireGuard full mesh configuration generator. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-05T16:30:43Z",
-            "owner": "k4yt3x",
-            "repo": "wg-meshconf",
-            "stars": 1048
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AndrianBdn/wg-cmd",
-          "description": "WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-07T10:11:51Z",
-            "owner": "AndrianBdn",
-            "repo": "wg-cmd",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "psyhomb/wireguard-tools",
-          "description": "WireGuard helper scripts. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-11-10T09:29:42Z",
-            "owner": "psyhomb",
-            "repo": "wireguard-tools",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-wireguard-socks-proxy",
-          "description": "Expose a WireGuard tunnel as a SOCKS5 proxy. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2019-10-08T15:17:01Z",
-            "owner": "kizzx2",
-            "repo": "docker-wireguard-socks-proxy",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "guard",
-          "description": "A gRPC server for managing wireguard tunnels. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-05-03T16:51:22Z",
-            "owner": "stellarproject",
-            "repo": "guard",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wiresteward",
-          "description": "A WireGuard peer manager with OAuth2 authentication. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T10:12:55Z",
-            "owner": "utilitywarehouse",
-            "repo": "wiresteward",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wgctl",
-          "description": "Utility to configure and manage your WireGuard tunnels. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-03-06T23:26:14Z",
-            "owner": "apognu",
-            "repo": "wgctl",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "b-m-f/wired",
-          "description": "WireGuard network configuration generator with support for multiple topologies written in Rust :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-09T10:17:25Z",
-            "owner": "b-m-f",
-            "repo": "wired",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "muiquq/wgcfghelp",
-          "description": "Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-09-09T11:46:19Z",
-            "owner": "muqiuq",
-            "repo": "wgcfghelp",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Terminal / CLI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wg-easy/wg-easy",
-          "description": "The easiest way to run WireGuard VPN + Web-based Admin UI. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T08:08:12Z",
-            "owner": "wg-easy",
-            "repo": "wg-easy",
-            "stars": 26692
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wireguard-ui",
-          "description": "Simple, have empty interfaces for authentication :yellow_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-08-09T14:26:26Z",
-            "owner": "ngoduykhanh",
-            "repo": "wireguard-ui",
-            "stars": 5142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Subspace",
-          "description": "A simple WireGuard VPN server GUI. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-06-13T19:26:27Z",
-            "owner": "subspacecommunity",
-            "repo": "subspace",
-            "stars": 1805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "h44z/wg-portal",
-          "description": "Supports LDAP and more :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T13:55:18Z",
-            "owner": "h44z",
-            "repo": "wg-portal",
-            "stars": 1798
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vx3r/wg-gen-web",
-          "description": "Simple Web based configuration generator for WireGuard. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-07T15:15:00Z",
-            "owner": "vx3r",
-            "repo": "wg-gen-web",
-            "stars": 1704
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WireGuard UI",
-          "description": "WireGuard Web UI for self-serve client configurations, with optional auth. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-04-12T08:45:42Z",
-            "owner": "EmbarkStudios",
-            "repo": "wg-ui",
-            "stars": 1518
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brsyuksel/wghttp",
-          "description": "A http server helps managing wireguard devices and peers on kernel level. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-27T08:06:09Z",
-            "owner": "brsyuksel",
-            "repo": "wghttp",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Web"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TunnlTo/desktop-app",
-          "description": "TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-14T05:58:23Z",
-            "owner": "TunnlTo",
-            "repo": "desktop-app",
-            "stars": 1963
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "network-manager-wireguard",
-          "description": "Network-Manager VPN Plugin for WireGuard. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-06-14T07:26:21Z",
-            "owner": "max-moser",
-            "repo": "network-manager-wireguard",
-            "stars": 468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WireGuardStatusbar",
-          "description": "macOS menubar icon for WireGuard/wg-quick. :black_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-05-12T09:59:27Z",
-            "owner": "aequitas",
-            "repo": "macos-menubar-wireguard",
-            "stars": 271
-          }
-        }
-      ],
-      "title": "Desktop"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development Environment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Boilerplate"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Homeserver"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Services based on WireGuard"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mullvad",
-          "description": "green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T09:42:40Z",
-            "owner": "mullvad",
-            "repo": "mullvadvpn-app",
-            "stars": 7474
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MozWire",
-          "description": "An unofficial configuration manager giving Linux, macOS users (among others), access to Mozilla VPN. :green_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-04T20:21:09Z",
-            "owner": "NilsIrl",
-            "repo": "MozWire",
-            "stars": 634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LNVPN",
-          "description": "A wireguard VPN provider with Ligthning only payments, pay as you use. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-03-26T20:17:27Z",
-            "owner": "LightRider5",
-            "repo": "lnvpn",
-            "stars": 76
-          }
-        }
-      ],
-      "title": "VPN"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Language Bindings"
-    },
-    {
-      "description": "Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C and Go, other implementations include:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "boringtun",
-          "description": "Userspace WireGuard implementation in Rust by Cloudflare. :yellow_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-29T06:18:56Z",
-            "owner": "cloudflare",
-            "repo": "boringtun",
-            "stars": 7173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ciniml/WireGuard-ESP32-Arduino",
-          "description": "WireGuard implementation for ESP32 Arduino in C. :red_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-04-01T13:57:36Z",
-            "owner": "ciniml",
-            "repo": "WireGuard-ESP32-Arduino",
-            "stars": 959
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smartalock/wireguard-lwip",
-          "description": "A C implementation of the WireGuard protocol intended to be used with the lwIP IP stack. :yellow_circle:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-14T08:41:42Z",
-            "owner": "smartalock",
-            "repo": "wireguard-lwip",
-            "stars": 257
-          }
-        }
-      ],
-      "title": "Alternative Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Useful Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Demos and Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Routing Docker Host And Container Traffic Through WireGuard",
-          "description": "using WireGuard Docker image by linuxserver.io",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-08-06T13:08:13Z",
-            "owner": "linuxserver",
-            "repo": "docker-wireguard",
-            "stars": 3633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fly-Tailscale-Exit",
-          "description": "Run your own VPN with global exit nodes with Fly.io, Tailscale and Github.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-09T00:05:56Z",
-            "owner": "patte",
-            "repo": "fly-tailscale-exit",
-            "stars": 1660
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Podcasts and Interviews"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Newsletters"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Communities and Meetups"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Chinese"
-    },
-    {
-      "description": "Contributions welcome! If you would like to contribute, please read the contribution guidelines first. It contains a lot of tips and guidelines to help keep things organized.\nFuture: Implement GitHub Actions to monitor and verify all the links with a simple Node.js script",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "\"WireGuard\" and the \"WireGuard\" logo are registered trademarks of Jason A. Donenfeld.",
-      "items": [],
-      "title": "Copyright"
-    },
-    {
-      "description": "This repository contains a variety of content; some developed by Cedric Chee, and some from third-parties. The third-party content is distributed under the license provided by those parties.\nI am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.\nThe content developed by Cedric Chee is distributed under the following license:",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "The text content is released under the CC-BY-NC-ND license. Read more at Creative Commons.",
-      "items": [],
-      "title": "Text"
-    },
-    {
-      "description": "The code in this repository is released under the MIT license.",
-      "items": [],
-      "title": "Code"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:44:04.222Z",
+    "last_updated": "2026-08-19T09:44:00.930Z",
     "original_repository": "cedrickchee/awesome-wireguard",
     "original_repository_sha": "b6d64769117e1974274dad43e6ea4a951b56d1b0",
     "enhanced_repository": "enhansome/enhansome-wireguard",
