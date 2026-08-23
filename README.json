@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T09:53:25Z",
                 "owner": "windtf",
                 "repo": "wireproxy",
-                "stars": 5762
+                "stars": 5767
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-12-31T18:45:29Z",
                 "owner": "WireGuard",
                 "repo": "wgctrl-go",
-                "stars": 913
+                "stars": 914
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-07-30T10:20:13Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43072
+                "stars": 43098
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 357897199,
                 "language": "Go",
-                "last_commit": "2026-08-21T16:21:10Z",
+                "last_commit": "2026-08-23T08:27:41Z",
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 28578
+                "stars": 28593
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-21T23:43:23Z",
                 "owner": "gravitl",
                 "repo": "netmaker",
-                "stars": 11761
+                "stars": 11763
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-07-28T12:00:53Z",
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5534
+                "stars": 5535
               }
             },
             {
@@ -313,10 +313,10 @@
                 "archived": false,
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-22T05:08:18Z",
+                "last_commit": "2026-08-23T09:21:49Z",
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9040
+                "stars": 9039
               }
             },
             {
@@ -527,7 +527,7 @@
                     "last_commit": "2026-08-19T08:07:21Z",
                     "owner": "pivpn",
                     "repo": "pivpn",
-                    "stars": 8035
+                    "stars": 8036
                   }
                 },
                 {
@@ -542,7 +542,7 @@
                     "last_commit": "2026-08-08T01:50:04Z",
                     "owner": "xjasonlyu",
                     "repo": "tun2socks",
-                    "stars": 5455
+                    "stars": 5457
                   }
                 },
                 {
@@ -572,7 +572,7 @@
                     "last_commit": "2025-12-15T17:02:38Z",
                     "owner": "complexorganizations",
                     "repo": "wireguard-manager",
-                    "stars": 1857
+                    "stars": 1856
                   }
                 },
                 {
@@ -689,7 +689,7 @@
                     "archived": false,
                     "id": 586558845,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T18:44:16Z",
+                    "last_commit": "2026-08-23T09:02:47Z",
                     "owner": "b-m-f",
                     "repo": "wired",
                     "stars": 17
@@ -729,7 +729,7 @@
                     "last_commit": "2026-08-19T12:50:07Z",
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 26722
+                    "stars": 26731
                   }
                 },
                 {
@@ -744,7 +744,7 @@
                     "last_commit": "2024-08-09T14:26:26Z",
                     "owner": "ngoduykhanh",
                     "repo": "wireguard-ui",
-                    "stars": 5141
+                    "stars": 5143
                   }
                 },
                 {
@@ -897,10 +897,10 @@
                     "archived": false,
                     "id": 114742422,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T05:39:43Z",
+                    "last_commit": "2026-08-23T07:48:32Z",
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7493
+                    "stars": 7494
                   }
                 },
                 {
@@ -957,7 +957,7 @@
                 "last_commit": "2026-06-29T06:18:56Z",
                 "owner": "cloudflare",
                 "repo": "boringtun",
-                "stars": 7180
+                "stars": 7181
               }
             },
             {
@@ -1027,7 +1027,7 @@
                 "archived": false,
                 "id": 396060550,
                 "language": "Shell",
-                "last_commit": "2026-08-09T00:05:56Z",
+                "last_commit": "2026-08-23T00:02:37Z",
                 "owner": "patte",
                 "repo": "fly-tailscale-exit",
                 "stars": 1659
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:36:23.067Z",
+    "last_updated": "2026-08-23T09:37:22.151Z",
     "original_repository": "cedrickchee/awesome-wireguard",
     "original_repository_id": 381382807,
     "original_repository_sha": "b6d64769117e1974274dad43e6ea4a951b56d1b0",
