@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T09:53:25Z",
                 "owner": "windtf",
                 "repo": "wireproxy",
-                "stars": 5769
+                "stars": 5770
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 273871859,
                 "language": "Go",
-                "last_commit": "2026-07-30T10:20:13Z",
+                "last_commit": "2026-08-24T11:46:11Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43129
+                "stars": 43136
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 357897199,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:30:43Z",
+                "last_commit": "2026-08-24T12:28:26Z",
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 28620
+                "stars": 28623
               }
             },
             {
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 351486934,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:57:55Z",
+                "last_commit": "2026-08-24T13:00:27Z",
                 "owner": "gravitl",
                 "repo": "netmaker",
                 "stars": 11761
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T09:32:03Z",
+                "last_commit": "2026-08-24T13:51:25Z",
                 "owner": "firezone",
                 "repo": "firezone",
                 "stars": 9039
@@ -499,6 +499,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "MindFlavor/prometheus_wireguard_exporter",
+              "description": "A Prometheus exporter for WireGuard, very light on your server resources. :red_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183095067,
+                "language": "Rust",
+                "last_commit": "2023-10-24T09:37:43Z",
+                "owner": "MindFlavor",
+                "repo": "prometheus_wireguard_exporter",
+                "stars": 601
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -512,7 +534,7 @@
                     "last_commit": "2026-05-02T15:59:41Z",
                     "owner": "angristan",
                     "repo": "wireguard-install",
-                    "stars": 11243
+                    "stars": 11244
                   }
                 },
                 {
@@ -557,7 +579,7 @@
                     "last_commit": "2026-07-02T17:56:47Z",
                     "owner": "Nyr",
                     "repo": "wireguard-install",
-                    "stars": 4923
+                    "stars": 4924
                   }
                 },
                 {
@@ -729,7 +751,7 @@
                     "last_commit": "2026-08-24T09:14:42Z",
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 26738
+                    "stars": 26740
                   }
                 },
                 {
@@ -771,7 +793,7 @@
                     "archived": false,
                     "id": 310385727,
                     "language": "Go",
-                    "last_commit": "2026-08-17T13:55:18Z",
+                    "last_commit": "2026-08-24T13:54:38Z",
                     "owner": "h44z",
                     "repo": "wg-portal",
                     "stars": 1798
@@ -878,6 +900,28 @@
               "description": null,
               "node_type": "group",
               "title": "Desktop"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Wireguard Dashboard",
+                  "description": "A simple and easy to use WireGuard dashboard written in Python and Flask. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305026947,
+                    "language": "Vue",
+                    "last_commit": "2026-08-17T20:34:09Z",
+                    "owner": "WGDashboard",
+                    "repo": "WGDashboard",
+                    "stars": 3700
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dashboards"
             }
           ],
           "description": null,
@@ -890,6 +934,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "wgcf",
+                  "description": "Cross-platform, unofficial CLI for Cloudflare Warp. :green_circle:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255437195,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T11:42:38Z",
+                    "owner": "ViRb3",
+                    "repo": "wgcf",
+                    "stars": 8638
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud Service"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Mullvad",
                   "description": "green_circle:",
                   "children": [],
@@ -897,10 +963,10 @@
                     "archived": false,
                     "id": 114742422,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T09:50:43Z",
+                    "last_commit": "2026-08-24T14:08:39Z",
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7499
+                    "stars": 7500
                   }
                 },
                 {
@@ -942,6 +1008,50 @@
           "description": null,
           "node_type": "group",
           "title": "Services based on WireGuard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wgsd",
+              "description": "A CoreDNS plugin that serves WireGuard peer information via DNS-SD (RFC6763) semantics. This enables use cases such as mesh networking, NAT-to-NAT connectivity, and dynamic discovery of WireGuard endpoint. :yellow_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262676659,
+                "language": "Go",
+                "last_commit": "2023-12-26T21:23:14Z",
+                "owner": "jwhited",
+                "repo": "wgsd",
+                "stars": 899
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extensions / Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nr-wg-mtu-finder",
+              "description": "A Python project to help you find the optimal MTU values for WG server and WG peer that maximizes the upload or download speeds between a peer and server. :yellow_circle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406286534,
+                "language": "Python",
+                "last_commit": "2025-08-08T20:32:01Z",
+                "owner": "nitred",
+                "repo": "nr-wg-mtu-finder",
+                "stars": 365
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Optimization"
         },
         {
           "children": [
@@ -1043,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:58:24.511Z",
+    "last_updated": "2026-08-24T14:10:23.115Z",
     "original_repository": "cedrickchee/awesome-wireguard",
     "original_repository_id": 381382807,
     "original_repository_sha": "b6d64769117e1974274dad43e6ea4a951b56d1b0",
