@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-25T05:49:32Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43153
+                "stars": 43159
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 357897199,
                 "language": "Go",
-                "last_commit": "2026-08-25T02:49:32Z",
+                "last_commit": "2026-08-25T09:40:34Z",
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 28637
+                "stars": 28646
               }
             },
             {
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 351486934,
                 "language": "Go",
-                "last_commit": "2026-08-24T18:16:39Z",
+                "last_commit": "2026-08-25T06:52:00Z",
                 "owner": "gravitl",
                 "repo": "netmaker",
                 "stars": 11761
@@ -313,10 +313,10 @@
                 "archived": false,
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-25T06:06:43Z",
+                "last_commit": "2026-08-25T07:54:28Z",
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9041
+                "stars": 9042
               }
             },
             {
@@ -751,7 +751,7 @@
                     "last_commit": "2026-08-24T09:14:42Z",
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 26743
+                    "stars": 26744
                   }
                 },
                 {
@@ -944,7 +944,7 @@
                     "last_commit": "2026-08-24T11:42:38Z",
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8640
+                    "stars": 8639
                   }
                 }
               ],
@@ -963,7 +963,7 @@
                     "archived": false,
                     "id": 114742422,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T21:21:50Z",
+                    "last_commit": "2026-08-25T09:24:30Z",
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
                     "stars": 7503
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:26.998Z",
+    "last_updated": "2026-08-25T09:47:14.575Z",
     "original_repository": "cedrickchee/awesome-wireguard",
     "original_repository_id": 381382807,
     "original_repository_sha": "b6d64769117e1974274dad43e6ea4a951b56d1b0",
