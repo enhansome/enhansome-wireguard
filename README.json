@@ -18,7 +18,8 @@
                 "owner": "windtf",
                 "repo": "wireproxy",
                 "stars": 5769
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2025-07-28T09:57:34Z",
                 "owner": "coder",
                 "repo": "wush",
-                "stars": 1477
-              }
+                "stars": 1485
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "burghardt",
                 "repo": "easy-wg-quick",
                 "stars": 1119
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "sandialabs",
                 "repo": "wiretap",
                 "stars": 1107
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "aramperes",
                 "repo": "onetun",
                 "stars": 1042
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "WireGuard",
                 "repo": "wgctrl-go",
                 "stars": 914
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "naggie",
                 "repo": "dsnet",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Mawthuq-Software",
                 "repo": "Wireguard-Manager-and-API",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "finzzz",
                 "repo": "wgzero",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "tevino",
                 "repo": "wg-make",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": null,
@@ -171,11 +181,12 @@
                 "archived": false,
                 "id": 273871859,
                 "language": "Go",
-                "last_commit": "2026-08-25T20:00:36Z",
+                "last_commit": "2026-08-28T11:13:49Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43233
-              }
+                "stars": 43273
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -186,11 +197,12 @@
                 "archived": false,
                 "id": 357897199,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:08:31Z",
+                "last_commit": "2026-08-28T15:12:00Z",
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 28687
-              }
+                "stars": 28704
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -201,11 +213,12 @@
                 "archived": false,
                 "id": 351486934,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:16:32Z",
+                "last_commit": "2026-08-28T19:03:02Z",
                 "owner": "gravitl",
                 "repo": "netmaker",
-                "stars": 11765
-              }
+                "stars": 11769
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "tonarino",
                 "repo": "innernet",
                 "stars": 5535
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "squat",
                 "repo": "kilo",
                 "stars": 2284
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "costela",
                 "repo": "wesher",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -264,8 +280,9 @@
                 "last_commit": "2024-12-15T14:09:01Z",
                 "owner": "HarvsG",
                 "repo": "WireGuardMeshes",
-                "stars": 651
-              }
+                "stars": 652
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "svenstaro",
                 "repo": "wiresmith",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": null,
@@ -301,8 +319,9 @@
                 "last_commit": "2026-08-26T21:45:41Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30368
-              }
+                "stars": 30367
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -313,11 +332,12 @@
                 "archived": false,
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T17:45:32Z",
+                "last_commit": "2026-08-28T16:29:49Z",
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9043
-              }
+                "stars": 9045
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -331,8 +351,9 @@
                 "last_commit": "2026-08-25T03:05:23Z",
                 "owner": "IAmStoxe",
                 "repo": "wirehole",
-                "stars": 4968
-              }
+                "stars": 4970
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "seashell",
                 "repo": "drago",
                 "stars": 1120
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "chadgeary",
                 "repo": "cloudblock",
                 "stars": 860
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "githubixx",
                 "repo": "ansible-role-wireguard",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "freifunkMUC",
                 "repo": "wg-access-server",
                 "stars": 687
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "b-m-f",
                 "repo": "WirtBot",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "elghazal-a",
                 "repo": "autowire",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "children": [
@@ -439,7 +466,8 @@
                     "owner": "linuxserver",
                     "repo": "docker-wireguard",
                     "stars": 3633
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -454,7 +482,8 @@
                     "owner": "cmulk",
                     "repo": "wireguard-docker",
                     "stars": 345
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -469,7 +498,8 @@
                     "owner": "masipcat",
                     "repo": "wireguard-go-docker",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -484,7 +514,8 @@
                     "owner": "bitwister",
                     "repo": "twine",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -511,7 +542,8 @@
                 "owner": "MindFlavor",
                 "repo": "prometheus_wireguard_exporter",
                 "stars": 601
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": null,
@@ -535,7 +567,8 @@
                     "owner": "angristan",
                     "repo": "wireguard-install",
                     "stars": 11249
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -550,7 +583,8 @@
                     "owner": "pivpn",
                     "repo": "pivpn",
                     "stars": 8036
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -564,8 +598,9 @@
                     "last_commit": "2026-08-08T01:50:04Z",
                     "owner": "xjasonlyu",
                     "repo": "tun2socks",
-                    "stars": 5462
-                  }
+                    "stars": 5465
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -580,7 +615,8 @@
                     "owner": "Nyr",
                     "repo": "wireguard-install",
                     "stars": 4927
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -595,7 +631,8 @@
                     "owner": "complexorganizations",
                     "repo": "wireguard-manager",
                     "stars": 1856
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -610,7 +647,8 @@
                     "owner": "k4yt3x",
                     "repo": "wg-meshconf",
                     "stars": 1051
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -625,7 +663,8 @@
                     "owner": "AndrianBdn",
                     "repo": "wg-cmd",
                     "stars": 223
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -640,7 +679,8 @@
                     "owner": "psyhomb",
                     "repo": "wireguard-tools",
                     "stars": 197
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -655,7 +695,8 @@
                     "owner": "kizzx2",
                     "repo": "docker-wireguard-socks-proxy",
                     "stars": 170
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -670,7 +711,8 @@
                     "owner": "stellarproject",
                     "repo": "guard",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -685,7 +727,8 @@
                     "owner": "utilitywarehouse",
                     "repo": "wiresteward",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -700,7 +743,8 @@
                     "owner": "apognu",
                     "repo": "wgctl",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -715,7 +759,8 @@
                     "owner": "b-m-f",
                     "repo": "wired",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -730,7 +775,8 @@
                     "owner": "muqiuq",
                     "repo": "wgcfghelp",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -751,8 +797,9 @@
                     "last_commit": "2026-08-27T13:00:04Z",
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 26775
-                  }
+                    "stars": 26788
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -767,7 +814,8 @@
                     "owner": "ngoduykhanh",
                     "repo": "wireguard-ui",
                     "stars": 5146
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +830,8 @@
                     "owner": "subspacecommunity",
                     "repo": "subspace",
                     "stars": 1805
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -796,8 +845,9 @@
                     "last_commit": "2026-08-27T07:47:56Z",
                     "owner": "h44z",
                     "repo": "wg-portal",
-                    "stars": 1802
-                  }
+                    "stars": 1804
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -812,7 +862,8 @@
                     "owner": "vx3r",
                     "repo": "wg-gen-web",
                     "stars": 1704
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -827,7 +878,8 @@
                     "owner": "EmbarkStudios",
                     "repo": "wg-ui",
                     "stars": 1518
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -842,7 +894,8 @@
                     "owner": "brsyuksel",
                     "repo": "wghttp",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -863,8 +916,9 @@
                     "last_commit": "2026-04-14T05:58:23Z",
                     "owner": "TunnlTo",
                     "repo": "desktop-app",
-                    "stars": 1968
-                  }
+                    "stars": 1965
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -879,7 +933,8 @@
                     "owner": "max-moser",
                     "repo": "network-manager-wireguard",
                     "stars": 468
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -894,7 +949,8 @@
                     "owner": "aequitas",
                     "repo": "macos-menubar-wireguard",
                     "stars": 271
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -916,7 +972,8 @@
                     "owner": "WGDashboard",
                     "repo": "WGDashboard",
                     "stars": 3701
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -944,8 +1001,9 @@
                     "last_commit": "2026-08-24T11:42:38Z",
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8642
-                  }
+                    "stars": 8647
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -963,11 +1021,12 @@
                     "archived": false,
                     "id": 114742422,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T15:22:04Z",
+                    "last_commit": "2026-08-28T16:06:35Z",
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7511
-                  }
+                    "stars": 7516
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -982,7 +1041,8 @@
                     "owner": "NilsIrl",
                     "repo": "MozWire",
                     "stars": 634
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 },
                 {
                   "node_type": "item",
@@ -997,7 +1057,8 @@
                     "owner": "LightRider5",
                     "repo": "lnvpn",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:28.242Z"
                 }
               ],
               "description": null,
@@ -1024,7 +1085,8 @@
                 "owner": "jwhited",
                 "repo": "wgsd",
                 "stars": 899
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": null,
@@ -1046,7 +1108,8 @@
                 "owner": "nitred",
                 "repo": "nr-wg-mtu-finder",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": null,
@@ -1068,7 +1131,8 @@
                 "owner": "cloudflare",
                 "repo": "boringtun",
                 "stars": 7187
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1147,8 @@
                 "owner": "ciniml",
                 "repo": "WireGuard-ESP32-Arduino",
                 "stars": 963
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -1098,7 +1163,8 @@
                 "owner": "smartalock",
                 "repo": "wireguard-lwip",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": "Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C and Go, other implementations include:",
@@ -1126,7 +1192,8 @@
                 "owner": "linuxserver",
                 "repo": "docker-wireguard",
                 "stars": 3633
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1208,8 @@
                 "owner": "patte",
                 "repo": "fly-tailscale-exit",
                 "stars": 1659
-              }
+              },
+              "first_seen": "2026-08-28T20:49:28.242Z"
             }
           ],
           "description": null,
@@ -1153,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:48:22.316Z",
+    "last_updated": "2026-08-28T20:49:28.242Z",
     "original_repository_info": {
       "archived": false,
       "id": 381382807,
@@ -1161,7 +1229,7 @@
       "last_commit": "2024-09-04T03:07:16Z",
       "owner": "cedrickchee",
       "repo": "awesome-wireguard",
-      "stars": 1493
+      "stars": 1494
     },
     "original_repository_sha": "b6d64769117e1974274dad43e6ea4a951b56d1b0",
     "enhanced_repository": "enhansome/enhansome-wireguard",
