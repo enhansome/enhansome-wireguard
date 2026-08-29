@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wireguard client that exposes itself as a socks5 proxy",
+                "homepage": null,
                 "id": 468743437,
                 "language": "Go",
+                "license": "ISC",
                 "last_commit": "2026-08-17T09:53:25Z",
+                "open_issues": 79,
                 "owner": "windtf",
                 "repo": "wireproxy",
-                "stars": 5769
+                "stars": 5770,
+                "topics": [
+                  "golang",
+                  "network",
+                  "proxy",
+                  "socks5",
+                  "socks5-proxy",
+                  "vpn",
+                  "wireguard",
+                  "wireguard-tunnel"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -28,12 +42,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simplest & fastest way to transfer files between computers via WireGuard",
+                "homepage": null,
                 "id": 820652738,
                 "language": "Go",
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-28T09:57:34Z",
+                "open_issues": 22,
                 "owner": "coder",
                 "repo": "wush",
-                "stars": 1485
+                "stars": 1485,
+                "topics": [
+                  "file-transfer",
+                  "go",
+                  "peer-to-peer",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -44,12 +68,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates Wireguard configuration for hub and peers with ease",
+                "homepage": null,
                 "id": 171384618,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-10T21:17:44Z",
+                "open_issues": 0,
                 "owner": "burghardt",
                 "repo": "easy-wg-quick",
-                "stars": 1119
+                "stars": 1119,
+                "topics": [
+                  "config",
+                  "configuration",
+                  "encryption",
+                  "generator",
+                  "ipv6",
+                  "privacy",
+                  "qrcode",
+                  "security",
+                  "self-hosted",
+                  "vpn",
+                  "vpn-server",
+                  "wg-quick",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -60,12 +103,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.",
+                "homepage": null,
                 "id": 567938688,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T19:07:41Z",
+                "open_issues": 14,
                 "owner": "sandialabs",
                 "repo": "wiretap",
-                "stars": 1107
+                "stars": 1107,
+                "topics": [
+                  "golang",
+                  "infosec",
+                  "proxy",
+                  "scr-2819",
+                  "snl-applications",
+                  "snl-cyber-sec",
+                  "tunnel",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -76,12 +134,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User space WireGuard port-forward in Rust",
+                "homepage": null,
                 "id": 415708517,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-10-20T16:30:40Z",
+                "open_issues": 17,
                 "owner": "aramperes",
                 "repo": "onetun",
-                "stars": 1042
+                "stars": 1042,
+                "topics": [
+                  "boringtun",
+                  "smoltcp",
+                  "wireguard",
+                  "wireguard-tunnel"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -92,12 +160,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package wgctrl enables control of WireGuard interfaces on multiple platforms.",
+                "homepage": "https://godoc.org/golang.zx2c4.com/wireguard/wgctrl",
                 "id": 141834498,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-12-31T18:45:29Z",
+                "open_issues": 26,
                 "owner": "WireGuard",
                 "repo": "wgctrl-go",
-                "stars": 914
+                "stars": 914,
+                "topics": [
+                  "go",
+                  "golang",
+                  "linux",
+                  "networking",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -108,12 +187,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.",
+                "homepage": "https://calbryant.uk/blog/how-to-set-up-a-wireguard-vpn-in-minutes-with-dsnet/",
                 "id": 239564831,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-17T21:02:24Z",
+                "open_issues": 17,
                 "owner": "naggie",
                 "repo": "dsnet",
-                "stars": 754
+                "stars": 754,
+                "topics": [
+                  "edgeos",
+                  "edgerouter",
+                  "ipv4",
+                  "ipv6",
+                  "linux",
+                  "networking",
+                  "ubuntu",
+                  "vpn",
+                  "vyatta",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -124,12 +219,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wireguard VPN Server Manager and API to add and remove clients",
+                "homepage": null,
                 "id": 393136189,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-06-23T18:43:14Z",
+                "open_issues": 3,
                 "owner": "Mawthuq-Software",
                 "repo": "Wireguard-Manager-and-API",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "api",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -140,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Zero overhead wireguard setup",
+                "homepage": null,
                 "id": 348013273,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-02-15T12:16:47Z",
+                "open_issues": 0,
                 "owner": "finzzz",
                 "repo": "wgzero",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -156,12 +265,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":pushpin: A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.",
+                "homepage": null,
                 "id": 266009772,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-05T08:32:08Z",
+                "open_issues": 0,
                 "owner": "tevino",
                 "repo": "wg-make",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "go",
+                  "wg-make",
+                  "wireguard",
+                  "wireguard-make"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -179,12 +298,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, self-hosted implementation of the Tailscale control server",
+                "homepage": null,
                 "id": 273871859,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:13:49Z",
+                "open_issues": 145,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43273
+                "stars": 43285,
+                "topics": [
+                  "tailscale",
+                  "tailscale-control-server",
+                  "tailscale-server",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -195,12 +324,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+                "homepage": "https://netbird.io",
                 "id": 357897199,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:12:00Z",
+                "open_issues": 1578,
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 28704
+                "stars": 28706,
+                "topics": [
+                  "golang",
+                  "mesh",
+                  "mesh-networks",
+                  "nat-traversal",
+                  "netbird",
+                  "vpn",
+                  "wireguard",
+                  "wireguard-vpn",
+                  "wiretrustee",
+                  "zero-trust-network-access"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -211,12 +356,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+                "homepage": "https://netmaker.io",
                 "id": 351486934,
                 "language": "Go",
-                "last_commit": "2026-08-28T19:03:02Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:42:53Z",
+                "open_issues": 223,
                 "owner": "gravitl",
                 "repo": "netmaker",
-                "stars": 11769
+                "stars": 11770,
+                "topics": [
+                  "cloud",
+                  "devsecops",
+                  "ipv6-support",
+                  "k8s",
+                  "kubernetes",
+                  "mesh",
+                  "mesh-network",
+                  "overlay-network",
+                  "secure-remote-access",
+                  "security",
+                  "self-hosted",
+                  "site-to-site",
+                  "virtual-networking",
+                  "vpn",
+                  "vpn-server",
+                  "wg-quick",
+                  "wireguard",
+                  "wireguard-ui",
+                  "wireguard-vpn",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -227,12 +398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A private network system that uses WireGuard under the hood.",
+                "homepage": "https://blog.tonari.no/introducing-innernet",
                 "id": 352725385,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-28T12:00:53Z",
+                "open_issues": 83,
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5535
+                "stars": 5535,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -243,12 +419,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)",
+                "homepage": "https://kilo.squat.ai",
                 "id": 162610275,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T21:54:12Z",
+                "open_issues": 95,
                 "owner": "squat",
                 "repo": "kilo",
-                "stars": 2284
+                "stars": 2284,
+                "topics": [
+                  "cni",
+                  "federation",
+                  "kubernetes",
+                  "multi-cloud",
+                  "multi-cluster",
+                  "networking",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -259,12 +449,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wireguard overlay mesh network manager",
+                "homepage": null,
                 "id": 177878291,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-17T04:13:13Z",
+                "open_issues": 19,
                 "owner": "costela",
                 "repo": "wesher",
-                "stars": 988
+                "stars": 988,
+                "topics": [
+                  "encryption",
+                  "go",
+                  "golang",
+                  "mesh-networks",
+                  "networking",
+                  "overlay-network",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -275,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A text repo to feature-track WireGuard mesh software",
+                "homepage": null,
                 "id": 434181676,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-15T14:09:01Z",
+                "open_issues": 9,
                 "owner": "HarvsG",
                 "repo": "WireGuardMeshes",
-                "stars": 652
+                "stars": 652,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -291,12 +500,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-config WireGuard clients into a mesh",
+                "homepage": null,
                 "id": 614620727,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-01T03:07:48Z",
+                "open_issues": 2,
                 "owner": "svenstaro",
                 "repo": "wiresmith",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "mesh",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -314,12 +531,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a personal VPN in the cloud",
+                "homepage": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
                 "id": 58842707,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T21:45:41Z",
+                "open_issues": 75,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30367
+                "stars": 30367,
+                "topics": [
+                  "ansible",
+                  "encryption",
+                  "ikev2",
+                  "ipsec",
+                  "security",
+                  "ssh-tunnel",
+                  "strongswan",
+                  "vpn",
+                  "vpn-client",
+                  "vpn-server",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -330,12 +564,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+                "homepage": "https://www.firezone.dev",
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-28T16:29:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:19:14Z",
+                "open_issues": 403,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9045
+                "stars": 9045,
+                "topics": [
+                  "cloud",
+                  "devsecops",
+                  "elixir",
+                  "elixir-lang",
+                  "liveview",
+                  "network",
+                  "network-security",
+                  "networking",
+                  "phoenix",
+                  "privacy",
+                  "rust-lang",
+                  "security",
+                  "virtual-network",
+                  "vpn",
+                  "vpn-server",
+                  "wireguard",
+                  "wireguard-ui",
+                  "wireguard-vpn"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -346,12 +604,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.",
+                "homepage": "https://iamstoxe.com",
                 "id": 292471955,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T03:05:23Z",
+                "open_issues": 62,
                 "owner": "IAmStoxe",
                 "repo": "wirehole",
-                "stars": 4970
+                "stars": 4970,
+                "topics": [
+                  "ad-blocking",
+                  "adblock",
+                  "dns",
+                  "dns-provider",
+                  "docker",
+                  "pi-hole",
+                  "pihole",
+                  "unbound",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -362,12 +636,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.",
+                "homepage": "https://seashell.github.io/drago",
                 "id": 232603789,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-13T08:01:54Z",
+                "open_issues": 34,
                 "owner": "seashell",
                 "repo": "drago",
-                "stars": 1120
+                "stars": 1120,
+                "topics": [
+                  "api",
+                  "client-server",
+                  "cloud",
+                  "configuration",
+                  "edge-computing",
+                  "golang",
+                  "iot",
+                  "linux",
+                  "mesh-networks",
+                  "networking",
+                  "rest-api",
+                  "security",
+                  "tunneling",
+                  "tuntap",
+                  "ui",
+                  "vpn",
+                  "wg-quick",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -378,12 +676,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.",
+                "homepage": null,
                 "id": 241555935,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-06T17:46:09Z",
+                "open_issues": 2,
                 "owner": "chadgeary",
                 "repo": "cloudblock",
-                "stars": 860
+                "stars": 860,
+                "topics": [
+                  "adblock",
+                  "adblocker",
+                  "ansible",
+                  "aws",
+                  "cloud",
+                  "dns",
+                  "gcp",
+                  "oci",
+                  "oracle-cloud-infrastructure",
+                  "pi-hole",
+                  "pihole",
+                  "privacy",
+                  "scaleway",
+                  "terraform",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -394,12 +714,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.",
+                "homepage": "https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-wireguard/",
                 "id": 141044491,
                 "language": "Jinja",
+                "license": null,
                 "last_commit": "2026-06-15T18:43:24Z",
+                "open_issues": 22,
                 "owner": "githubixx",
                 "repo": "ansible-role-wireguard",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "ansible",
+                  "ansible-role",
+                  "linux",
+                  "networking",
+                  "security",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -410,12 +743,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.",
+                "homepage": "https://www.freie-netze.org/wg-access-server/",
                 "id": 342358823,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-19T21:07:51Z",
+                "open_issues": 27,
                 "owner": "freifunkMUC",
                 "repo": "wg-access-server",
-                "stars": 687
+                "stars": 687,
+                "topics": [
+                  "container",
+                  "docker",
+                  "hacktoberfest",
+                  "ipv6",
+                  "kubernetes",
+                  "nat",
+                  "vpn",
+                  "wireguard",
+                  "wireguard-ui"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -426,12 +774,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Easily and securely extend your network into the cloud with a WirtBot",
+                "homepage": "https://b-m-f.github.io/WirtBot",
                 "id": 260530988,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-01-11T15:36:26Z",
+                "open_issues": 14,
                 "owner": "b-m-f",
                 "repo": "WirtBot",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "cloud",
+                  "internet",
+                  "rust",
+                  "vpn",
+                  "vuejs",
+                  "wireguard",
+                  "wirt"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -442,12 +803,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.",
+                "homepage": null,
                 "id": 160929895,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2022-02-26T13:06:00Z",
+                "open_issues": 2,
                 "owner": "elghazal-a",
                 "repo": "autowire",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "consul",
+                  "devops",
+                  "networking",
+                  "security",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -460,12 +833,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 251491969,
                     "language": "Dockerfile",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-06T13:08:13Z",
+                    "open_issues": 2,
                     "owner": "linuxserver",
                     "repo": "docker-wireguard",
-                    "stars": 3633
+                    "stars": 3633,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -476,12 +856,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Wireguard setup in Docker meant for a simple personal VPN",
+                    "homepage": null,
                     "id": 163534376,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2022-01-19T02:10:52Z",
+                    "open_issues": 2,
                     "owner": "cmulk",
                     "repo": "wireguard-docker",
-                    "stars": 345
+                    "stars": 345,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -492,12 +877,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wireguard docker image",
+                    "homepage": "https://hub.docker.com/r/masipcat/wireguard-go",
                     "id": 176550385,
                     "language": "Go",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-21T22:56:52Z",
+                    "open_issues": 6,
                     "owner": "masipcat",
                     "repo": "wireguard-go-docker",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": [
+                      "docker",
+                      "k8s",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -508,12 +903,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated management of Docker container networking via labels.",
+                    "homepage": null,
                     "id": 603875171,
                     "language": "TypeScript",
+                    "license": "Unlicense",
                     "last_commit": "2025-08-25T08:26:38Z",
+                    "open_issues": 11,
                     "owner": "bitwister",
                     "repo": "twine",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "docker",
+                      "firewall",
+                      "openvpn",
+                      "tunnel",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -536,12 +943,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Prometheus exporter for WireGuard, written in Rust.",
+                "homepage": "https://mindflavor.github.io/prometheus_wireguard_exporter",
                 "id": 183095067,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-10-24T09:37:43Z",
+                "open_issues": 36,
                 "owner": "MindFlavor",
                 "repo": "prometheus_wireguard_exporter",
-                "stars": 601
+                "stars": 601,
+                "topics": [
+                  "prometheus-exporter",
+                  "rust",
+                  "wireguard",
+                  "wireguard-vpn"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -561,12 +978,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WireGuard VPN installer for Linux servers",
+                    "homepage": "https://stanislas.blog/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/",
                     "id": 185017902,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-05-02T15:59:41Z",
+                    "open_issues": 124,
                     "owner": "angristan",
                     "repo": "wireguard-install",
-                    "stars": 11249
+                    "stars": 11249,
+                    "topics": [
+                      "linux",
+                      "nat",
+                      "privacy",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -577,12 +1005,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Simplest VPN installer, designed for Raspberry Pi",
+                    "homepage": "https://pivpn.io",
                     "id": 56450375,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T08:07:21Z",
+                    "open_issues": 16,
                     "owner": "pivpn",
                     "repo": "pivpn",
-                    "stars": 8036
+                    "stars": 8036,
+                    "topics": [
+                      "openvpn",
+                      "openvpn-installer",
+                      "pivpn",
+                      "raspberry-pi",
+                      "vpn-server",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -593,12 +1033,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "tun2socks - powered by gVisor TCP/IP stack",
+                    "homepage": "https://github.com/xjasonlyu/tun2socks/wiki",
                     "id": 197113333,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T01:50:04Z",
+                    "open_issues": 16,
                     "owner": "xjasonlyu",
                     "repo": "tun2socks",
-                    "stars": 5465
+                    "stars": 5465,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "gvisor",
+                      "http-proxy",
+                      "nat",
+                      "proxifier",
+                      "proxy",
+                      "shadowsocks",
+                      "socks4",
+                      "socks5",
+                      "ssh",
+                      "ssh-tunnel",
+                      "tcpip-stack",
+                      "tor",
+                      "tun-device",
+                      "tun2socks",
+                      "udp",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -609,12 +1073,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
+                    "homepage": null,
                     "id": 260286392,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-07-02T17:56:47Z",
+                    "open_issues": 0,
                     "owner": "Nyr",
                     "repo": "wireguard-install",
-                    "stars": 4927
+                    "stars": 4927,
+                    "topics": [
+                      "almalinux",
+                      "bash",
+                      "centos",
+                      "debian",
+                      "fedora",
+                      "rockylinux",
+                      "shell",
+                      "ubuntu",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -625,12 +1105,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.",
+                    "homepage": null,
                     "id": 255674828,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-15T17:02:38Z",
+                    "open_issues": 34,
                     "owner": "complexorganizations",
                     "repo": "wireguard-manager",
-                    "stars": 1856
+                    "stars": 1856,
+                    "topics": [
+                      "censorship",
+                      "censorship-circumvention",
+                      "encryption",
+                      "gfw",
+                      "linux",
+                      "networking",
+                      "privacy",
+                      "road-warrior",
+                      "security",
+                      "self-hosted",
+                      "vpn",
+                      "vpn-setup",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -641,12 +1140,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WireGuard full mesh configuration generator.",
+                    "homepage": null,
                     "id": 152439559,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-05T16:30:43Z",
+                    "open_issues": 9,
                     "owner": "k4yt3x",
                     "repo": "wg-meshconf",
-                    "stars": 1051
+                    "stars": 1051,
+                    "topics": [
+                      "mesh-generation",
+                      "mesh-networks",
+                      "networking",
+                      "python",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -657,12 +1167,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TUI for managing WireGuard configuration files",
+                    "homepage": null,
                     "id": 587747920,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-07-07T10:11:51Z",
+                    "open_issues": 2,
                     "owner": "AndrianBdn",
                     "repo": "wg-cmd",
-                    "stars": 223
+                    "stars": 223,
+                    "topics": [
+                      "linux-server",
+                      "tui",
+                      "vpn-server",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -673,12 +1193,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wireguard helper scripts",
+                    "homepage": "https://gitlab.com/psyhomb/wireguard-tools",
                     "id": 270302282,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2023-11-10T09:29:42Z",
+                    "open_issues": 2,
                     "owner": "psyhomb",
                     "repo": "wireguard-tools",
-                    "stars": 197
+                    "stars": 197,
+                    "topics": [
+                      "linux",
+                      "scripts",
+                      "tools",
+                      "vpn",
+                      "wg",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -689,12 +1221,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Expose a WireGuard tunnel as a SOCKS5 proxy",
+                    "homepage": "https://hub.docker.com/r/kizzx2/wireguard-socks-proxy",
                     "id": 213676084,
                     "language": "Dockerfile",
+                    "license": "MIT",
                     "last_commit": "2019-10-08T15:17:01Z",
+                    "open_issues": 7,
                     "owner": "kizzx2",
                     "repo": "docker-wireguard-socks-proxy",
-                    "stars": 170
+                    "stars": 170,
+                    "topics": [
+                      "docker",
+                      "opsec",
+                      "privacy",
+                      "proxy",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -705,12 +1248,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GRPC Wireguard Server to manage tunnels",
+                    "homepage": null,
                     "id": 196384008,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2021-05-03T16:51:22Z",
+                    "open_issues": 2,
                     "owner": "stellarproject",
                     "repo": "guard",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "grpc",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -721,12 +1275,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wireguard peer manager",
+                    "homepage": null,
                     "id": 208277557,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T14:22:34Z",
+                    "open_issues": 3,
                     "owner": "utilitywarehouse",
                     "repo": "wiresteward",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "oauth2",
+                      "uw-owner-system",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -737,12 +1300,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utility to configure and manage your WireGuard tunnels",
+                    "homepage": null,
                     "id": 144188659,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-03-06T23:26:14Z",
+                    "open_issues": 4,
                     "owner": "apognu",
                     "repo": "wgctl",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "golang",
+                      "linux",
+                      "netlink",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -753,12 +1327,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WireGuard configuration generator written in Rust",
+                    "homepage": null,
                     "id": 586558845,
                     "language": "Rust",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-23T15:25:34Z",
+                    "open_issues": 1,
                     "owner": "b-m-f",
                     "repo": "wired",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "generator",
+                      "network",
+                      "network-automation",
+                      "networking",
+                      "vpn",
+                      "wireguard",
+                      "wireguard-vpn-setup"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -769,12 +1356,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wireguard Config Helper",
+                    "homepage": null,
                     "id": 776021839,
                     "language": "C#",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-09T11:46:19Z",
+                    "open_issues": 0,
                     "owner": "muqiuq",
                     "repo": "wgcfghelp",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -792,12 +1384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+                    "homepage": "https://wg-easy.github.io/wg-easy/latest/",
                     "id": 369764441,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-27T13:00:04Z",
+                    "open_issues": 50,
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 26788
+                    "stars": 26788,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -808,12 +1405,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wireguard web interface",
+                    "homepage": null,
                     "id": 256406208,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2024-08-09T14:26:26Z",
+                    "open_issues": 210,
                     "owner": "ngoduykhanh",
                     "repo": "wireguard-ui",
-                    "stars": 5146
+                    "stars": 5146,
+                    "topics": [
+                      "wireguard",
+                      "wireguard-admin",
+                      "wireguard-config-gen",
+                      "wireguard-go",
+                      "wireguard-ui",
+                      "wireguard-vpn",
+                      "wireguard-web"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -824,12 +1434,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork of the simple WireGuard VPN server GUI community maintained",
+                    "homepage": null,
                     "id": 244415543,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-06-13T19:26:27Z",
+                    "open_issues": 65,
                     "owner": "subspacecommunity",
                     "repo": "subspace",
-                    "stars": 1805
+                    "stars": 1805,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -840,12 +1455,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WireGuard Configuration Portal with LDAP connection",
+                    "homepage": "https://wgportal.org/",
                     "id": 310385727,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T07:47:56Z",
+                    "open_issues": 34,
                     "owner": "h44z",
                     "repo": "wg-portal",
-                    "stars": 1804
+                    "stars": 1804,
+                    "topics": [
+                      "ldap",
+                      "ui",
+                      "usermanagement",
+                      "vpn",
+                      "webinterface",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -856,12 +1483,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Web based configuration generator for WireGuard",
+                    "homepage": "https://wg-gen-web-demo.127-0-0-1.fr",
                     "id": 237155370,
                     "language": "Go",
+                    "license": "WTFPL",
                     "last_commit": "2024-05-07T15:15:00Z",
+                    "open_issues": 49,
                     "owner": "vx3r",
                     "repo": "wg-gen-web",
-                    "stars": 1704
+                    "stars": 1704,
+                    "topics": [
+                      "docker",
+                      "go",
+                      "vpn",
+                      "vuejs",
+                      "vuetify",
+                      "web-ui",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -872,12 +1512,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "WireGuard Web UI for self-serve client configurations, with optional auth.",
+                    "homepage": null,
                     "id": 184240717,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-04-12T08:45:42Z",
+                    "open_issues": 27,
                     "owner": "EmbarkStudios",
                     "repo": "wg-ui",
-                    "stars": 1518
+                    "stars": 1518,
+                    "topics": [
+                      "go",
+                      "svelte",
+                      "ui",
+                      "vpn",
+                      "web",
+                      "web-ui",
+                      "wg-ui",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -888,12 +1542,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "zero-log, lightweight, and opinionated http server for managing wireguard",
+                    "homepage": null,
                     "id": 570178418,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-27T08:06:09Z",
+                    "open_issues": 2,
                     "owner": "brsyuksel",
                     "repo": "wghttp",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "linux",
+                      "rust",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -911,12 +1574,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.",
+                    "homepage": "https://tunnl.to",
                     "id": 559766972,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-04-14T05:58:23Z",
+                    "open_issues": 2,
                     "owner": "TunnlTo",
                     "repo": "desktop-app",
-                    "stars": 1965
+                    "stars": 1965,
+                    "topics": [
+                      "split-tunnel",
+                      "split-tunneling",
+                      "vpn",
+                      "vpn-client",
+                      "vpn-tunnelling",
+                      "windows",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -927,12 +1603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NetworkManager VPN Plugin: Wireguard",
+                    "homepage": null,
                     "id": 121376654,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-06-14T07:26:21Z",
+                    "open_issues": 45,
                     "owner": "max-moser",
                     "repo": "network-manager-wireguard",
-                    "stars": 468
+                    "stars": 468,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -943,12 +1624,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "macOS menubar icon for WireGuard/wg-quick",
+                    "homepage": null,
                     "id": 144458665,
                     "language": "Swift",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-05-12T09:59:27Z",
+                    "open_issues": 5,
                     "owner": "aequitas",
                     "repo": "macos-menubar-wireguard",
-                    "stars": 271
+                    "stars": 271,
+                    "topics": [
+                      "macos",
+                      "statusbar",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -966,12 +1657,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+                    "homepage": "https://wgdashboard.dev",
                     "id": 305026947,
                     "language": "Vue",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T20:34:54Z",
+                    "open_issues": 98,
                     "owner": "WGDashboard",
                     "repo": "WGDashboard",
-                    "stars": 3701
+                    "stars": 3702,
+                    "topics": [
+                      "dashboard",
+                      "flask-application",
+                      "linux",
+                      "python",
+                      "python3",
+                      "sqlite",
+                      "vpn",
+                      "vuejs",
+                      "wireguard",
+                      "wireguard-vpn"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -996,12 +1703,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
+                    "homepage": null,
                     "id": 255437195,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T11:42:38Z",
+                    "open_issues": 29,
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8647
+                    "stars": 8649,
+                    "topics": [
+                      "client",
+                      "cloudflare",
+                      "plus",
+                      "security",
+                      "vpn",
+                      "warp",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -1019,12 +1739,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Mullvad VPN client app for desktop and mobile",
+                    "homepage": "https://mullvad.net/",
                     "id": 114742422,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T16:06:35Z",
+                    "open_issues": 159,
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7516
+                    "stars": 7517,
+                    "topics": [
+                      "electron",
+                      "nodejs",
+                      "openvpn",
+                      "rust",
+                      "vpn",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -1035,12 +1767,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MozWire is an unofficial configuration manager giving Linux, macOS users (among others), access to MozillaVPN.",
+                    "homepage": null,
                     "id": 287787250,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-01-04T20:21:09Z",
+                    "open_issues": 14,
                     "owner": "NilsIrl",
                     "repo": "MozWire",
-                    "stars": 634
+                    "stars": 634,
+                    "topics": [
+                      "linux",
+                      "macos",
+                      "mozilla",
+                      "rust",
+                      "wireguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 },
@@ -1051,12 +1794,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple VPN with Lightning",
+                    "homepage": null,
                     "id": 476321185,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-26T20:17:27Z",
+                    "open_issues": 12,
                     "owner": "LightRider5",
                     "repo": "lnvpn",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
                 }
@@ -1079,12 +1827,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics",
+                "homepage": "https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/",
                 "id": 262676659,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-12-26T21:23:14Z",
+                "open_issues": 19,
                 "owner": "jwhited",
                 "repo": "wgsd",
-                "stars": 899
+                "stars": 899,
+                "topics": [
+                  "coredns-plugin",
+                  "mesh-networks",
+                  "nat-traversal",
+                  "service-discovery",
+                  "udp-hole-punching",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -1102,12 +1862,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 406286534,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-08T20:32:01Z",
+                "open_issues": 8,
                 "owner": "nitred",
                 "repo": "nr-wg-mtu-finder",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -1125,12 +1890,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Userspace WireGuard® Implementation in Rust",
+                "homepage": null,
                 "id": 152798409,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-29T06:18:56Z",
+                "open_issues": 108,
                 "owner": "cloudflare",
                 "repo": "boringtun",
-                "stars": 7187
+                "stars": 7187,
+                "topics": [
+                  "cloudflare",
+                  "rust",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -1141,12 +1915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WireGuard implementation for ESP32 Arduino",
+                "homepage": null,
                 "id": 387251671,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-01T13:57:36Z",
+                "open_issues": 34,
                 "owner": "ciniml",
                 "repo": "WireGuard-ESP32-Arduino",
-                "stars": 963
+                "stars": 963,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -1157,12 +1936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WireGuard Implementation for lwIP",
+                "homepage": null,
                 "id": 330684585,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T08:41:42Z",
+                "open_issues": 10,
                 "owner": "smartalock",
                 "repo": "wireguard-lwip",
-                "stars": 258
+                "stars": 258,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -1186,12 +1970,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 251491969,
                 "language": "Dockerfile",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-06T13:08:13Z",
+                "open_issues": 2,
                 "owner": "linuxserver",
                 "repo": "docker-wireguard",
-                "stars": 3633
+                "stars": 3633,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             },
@@ -1202,12 +1993,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run a VPN with global exit nodes with fly.io, tailscale and github!",
+                "homepage": "https://news.ycombinator.com/item?id=36064305",
                 "id": 396060550,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-27T18:00:51Z",
+                "open_issues": 0,
                 "owner": "patte",
                 "repo": "fly-tailscale-exit",
-                "stars": 1659
+                "stars": 1659,
+                "topics": [
+                  "exitnode",
+                  "flyio",
+                  "tailscale",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
             }
@@ -1221,15 +2022,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:49:28.242Z",
+    "last_updated": "2026-08-29T04:33:31.350Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of WireGuard tools, projects, and resources.",
+      "homepage": null,
       "id": 381382807,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-09-04T03:07:16Z",
+      "open_issues": 13,
       "owner": "cedrickchee",
       "repo": "awesome-wireguard",
-      "stars": 1494
+      "stars": 1494,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "mesh-network",
+        "vpn",
+        "wireguard"
+      ]
     },
     "original_repository_sha": "b6d64769117e1974274dad43e6ea4a951b56d1b0",
     "enhanced_repository": "enhansome/enhansome-wireguard",
