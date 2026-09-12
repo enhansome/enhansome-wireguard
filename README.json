@@ -304,10 +304,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:14:23Z",
-                "open_issues": 142,
+                "open_issues": 145,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43752,
+                "stars": 43780,
                 "topics": [
                   "tailscale",
                   "tailscale-control-server",
@@ -329,11 +329,11 @@
                 "id": 357897199,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T13:14:52Z",
-                "open_issues": 1508,
+                "last_commit": "2026-09-12T12:42:33Z",
+                "open_issues": 1507,
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 29120,
+                "stars": 29140,
                 "topics": [
                   "golang",
                   "mesh",
@@ -365,7 +365,7 @@
                 "open_issues": 228,
                 "owner": "gravitl",
                 "repo": "netmaker",
-                "stars": 11779,
+                "stars": 11780,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -407,7 +407,7 @@
                 "open_issues": 83,
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5544,
+                "stars": 5547,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
@@ -540,7 +540,7 @@
                 "open_issues": 77,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30372,
+                "stars": 30373,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -564,16 +564,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+                "description": "Blazing-fast remote access",
                 "homepage": "https://www.firezone.dev",
                 "id": 257787813,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T12:59:26Z",
-                "open_issues": 412,
+                "last_commit": "2026-09-12T12:47:53Z",
+                "open_issues": 416,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9084,
+                "stars": 9086,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -584,14 +584,12 @@
                   "network-security",
                   "networking",
                   "phoenix",
-                  "privacy",
                   "rust-lang",
                   "security",
                   "virtual-network",
                   "vpn",
                   "vpn-server",
                   "wireguard",
-                  "wireguard-ui",
                   "wireguard-vpn"
                 ]
               },
@@ -613,7 +611,7 @@
                 "open_issues": 62,
                 "owner": "IAmStoxe",
                 "repo": "wirehole",
-                "stars": 4970,
+                "stars": 4969,
                 "topics": [
                   "ad-blocking",
                   "adblock",
@@ -987,7 +985,7 @@
                     "open_issues": 124,
                     "owner": "angristan",
                     "repo": "wireguard-install",
-                    "stars": 11280,
+                    "stars": 11282,
                     "topics": [
                       "linux",
                       "nat",
@@ -1014,7 +1012,7 @@
                     "open_issues": 14,
                     "owner": "pivpn",
                     "repo": "pivpn",
-                    "stars": 8041,
+                    "stars": 8040,
                     "topics": [
                       "openvpn",
                       "openvpn-installer",
@@ -1042,7 +1040,7 @@
                     "open_issues": 15,
                     "owner": "xjasonlyu",
                     "repo": "tun2socks",
-                    "stars": 5485,
+                    "stars": 5488,
                     "topics": [
                       "go",
                       "golang",
@@ -1393,7 +1391,7 @@
                     "open_issues": 50,
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 26906,
+                    "stars": 26912,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
@@ -1440,7 +1438,7 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-09-10T21:13:45Z",
-                    "open_issues": 27,
+                    "open_issues": 29,
                     "owner": "h44z",
                     "repo": "wg-portal",
                     "stars": 1813,
@@ -1471,7 +1469,7 @@
                     "open_issues": 65,
                     "owner": "subspacecommunity",
                     "repo": "subspace",
-                    "stars": 1805,
+                    "stars": 1806,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
@@ -1666,7 +1664,7 @@
                     "open_issues": 100,
                     "owner": "WGDashboard",
                     "repo": "WGDashboard",
-                    "stars": 3713,
+                    "stars": 3714,
                     "topics": [
                       "dashboard",
                       "flask-application",
@@ -1712,7 +1710,7 @@
                     "open_issues": 30,
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8688,
+                    "stars": 8693,
                     "topics": [
                       "client",
                       "cloudflare",
@@ -1744,11 +1742,11 @@
                     "id": 114742422,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-11T13:25:12Z",
-                    "open_issues": 150,
+                    "last_commit": "2026-09-12T09:02:29Z",
+                    "open_issues": 152,
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7551,
+                    "stars": 7555,
                     "topics": [
                       "electron",
                       "nodejs",
@@ -1899,7 +1897,7 @@
                 "open_issues": 109,
                 "owner": "cloudflare",
                 "repo": "boringtun",
-                "stars": 7190,
+                "stars": 7192,
                 "topics": [
                   "cloudflare",
                   "rust",
@@ -1945,7 +1943,7 @@
                 "open_issues": 12,
                 "owner": "smartalock",
                 "repo": "wireguard-lwip",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
@@ -2022,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:29:26.944Z",
+    "last_updated": "2026-09-12T12:48:51.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WireGuard tools, projects, and resources.",
