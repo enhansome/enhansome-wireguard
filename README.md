@@ -122,7 +122,7 @@ We use emoji to determine repository status.
 
 ### Tools
 
-* [wireproxy](https://github.com/octeep/wireproxy) ⭐ 5,813 | 🐛 79 | 🌐 Go | 📅 2026-09-17 - A userspace WireGuard client that connects to a WireGuard peer, and exposes a SOCKS5 proxy. (Use cases: Setting up WG as a VPN requires special privilege. It tells the kernel to create a special network interface to handle WG connection. This can get messy if you do not have any special permission (i.e., root), if you do not have proper firewall configuration, or if you want to connect to multiple WG peers at once. wireproxy static tunneling is basically openssh `-D`, which supports SOCKS5 protocols.)
+* [wireproxy](https://github.com/octeep/wireproxy) ⭐ 5,816 | 🐛 79 | 🌐 Go | 📅 2026-09-17 - A userspace WireGuard client that connects to a WireGuard peer, and exposes a SOCKS5 proxy. (Use cases: Setting up WG as a VPN requires special privilege. It tells the kernel to create a special network interface to handle WG connection. This can get messy if you do not have any special permission (i.e., root), if you do not have proper firewall configuration, or if you want to connect to multiple WG peers at once. wireproxy static tunneling is basically openssh `-D`, which supports SOCKS5 protocols.)
   ![GitHub last commit](https://img.shields.io/github/last-commit/octeep/wireproxy?style=flat-square\&color=informational) :green\_circle:
 * [coder/wush](https://github.com/coder/wush) ⭐ 1,493 | 🐛 22 | 🌐 Go | 📅 2025-07-28 - Simplest and fastest way to transfer files between computers via WireGuard.
   ![GitHub last commit](https://img.shields.io/github/last-commit/coder/wush?style=flat-square\&color=informational) :green\_circle:
@@ -132,7 +132,7 @@ We use emoji to determine repository status.
   ![GitHub last commit](https://img.shields.io/github/last-commit/sandialabs/wiretap?style=flat-square\&color=informational) :green\_circle:
 * [onetun](https://github.com/aramperes/onetun) ⭐ 1,042 | 🐛 17 | 🌐 Rust | 📅 2025-10-20 - A user-space WireGuard port-forwarder -- access ports running on peers in your WireGuard network from any device; without having to install WireGuard locally or without root access (no iptables configs).
   ![GitHub last commit](https://img.shields.io/github/last-commit/aramperes/onetun?style=flat-square\&color=informational) :green\_circle:
-* [wgctrl](https://github.com/WireGuard/wgctrl-go) ⭐ 914 | 🐛 26 | 🌐 Go | 📅 2024-12-31 - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
+* [wgctrl](https://github.com/WireGuard/wgctrl-go) ⭐ 915 | 🐛 26 | 🌐 Go | 📅 2024-12-31 - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
   ![GitHub last commit](https://img.shields.io/github/last-commit/WireGuard/wgctrl-go?style=flat-square\&color=informational) :red\_circle:
 * [dsnet](https://github.com/naggie/dsnet/) ⭐ 753 | 🐛 17 | 🌐 Go | 📅 2026-05-17 - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
   ![GitHub last commit](https://img.shields.io/github/last-commit/naggie/dsnet?style=flat-square\&color=informational) :green\_circle:
@@ -146,13 +146,13 @@ We use emoji to determine repository status.
 
 ### Mesh Network
 
-* [Headscale](https://github.com/juanfont/headscale) ⭐ 44,198 | 🐛 138 | 🌐 Go | 📅 2026-09-28 - An open source implementation of the Tailscale control server.
+* [Headscale](https://github.com/juanfont/headscale) ⭐ 44,224 | 🐛 139 | 🌐 Go | 📅 2026-09-29 - An open source implementation of the Tailscale control server.
   ![GitHub last commit](https://img.shields.io/github/last-commit/juanfont/headscale?style=flat-square\&color=informational) :green\_circle:
-* [NetBird](https://github.com/netbirdio/netbird) ⭐ 29,586 | 🐛 1,394 | 🌐 Go | 📅 2026-09-28 - (Previously Wiretrustee) NetBird is an open-source VPN management platform built on top of WireGuard® making it easy to create secure private networks for your organization or home. Technically, it creates an overlay network using ICE protocol (WebRTC) to negotiate P2P connections and WG (kernel module, when possible) to create a fast and encrypted tunnel between machines, falling back to relay (TURN) in case a P2P connection isn't possible. Pretty much just a client app is needed, the rest is done by the software. Their vision is to go beyond traditional VPN by bringing advanced NetSec (Zero Trust security model) like OpenZiti.
+* [NetBird](https://github.com/netbirdio/netbird) ⭐ 29,615 | 🐛 1,316 | 🌐 Go | 📅 2026-09-29 - (Previously Wiretrustee) NetBird is an open-source VPN management platform built on top of WireGuard® making it easy to create secure private networks for your organization or home. Technically, it creates an overlay network using ICE protocol (WebRTC) to negotiate P2P connections and WG (kernel module, when possible) to create a fast and encrypted tunnel between machines, falling back to relay (TURN) in case a P2P connection isn't possible. Pretty much just a client app is needed, the rest is done by the software. Their vision is to go beyond traditional VPN by bringing advanced NetSec (Zero Trust security model) like OpenZiti.
   ![GitHub last commit](https://img.shields.io/github/last-commit/netbirdio/netbird?style=flat-square\&color=informational) :green\_circle:
-* [gravitl/netmaker](https://github.com/gravitl/netmaker) ⭐ 11,804 | 🐛 233 | 🌐 Go | 📅 2026-09-28 - Netmaker is a VPN platform that automates WireGuard from homelab to enterprise. The key distinctions in their solutions are: fast because it can use kernel WireGuard (instead of userspace WireGuard, which is slower), tailored towards the Cloud and Kubernetes, and fully self-hostable.
+* [gravitl/netmaker](https://github.com/gravitl/netmaker) ⭐ 11,806 | 🐛 233 | 🌐 Go | 📅 2026-09-29 - Netmaker is a VPN platform that automates WireGuard from homelab to enterprise. The key distinctions in their solutions are: fast because it can use kernel WireGuard (instead of userspace WireGuard, which is slower), tailored towards the Cloud and Kubernetes, and fully self-hostable.
   ![GitHub last commit](https://img.shields.io/github/last-commit/gravitl/netmaker?style=flat-square\&color=informational) :green\_circle:
-* [innernet](https://github.com/tonarino/innernet) ⭐ 5,553 | 🐛 83 | 🌐 Rust | 📅 2026-07-28 - A private network system that uses WireGuard under the hood. It is similar in its goals to Slack's nebula or Tailscale.
+* [innernet](https://github.com/tonarino/innernet) ⭐ 5,554 | 🐛 83 | 🌐 Rust | 📅 2026-07-28 - A private network system that uses WireGuard under the hood. It is similar in its goals to Slack's nebula or Tailscale.
   ![GitHub last commit](https://img.shields.io/github/last-commit/tonarino/innernet?style=flat-square\&color=informational) :green\_circle:
 * [Kilo](https://github.com/squat/kilo) ⭐ 2,294 | 🐛 97 | 🌐 Go | 📅 2026-09-13 - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg).
   ![GitHub last commit](https://img.shields.io/github/last-commit/squat/kilo?style=flat-square\&color=informational) :green\_circle:
@@ -165,19 +165,19 @@ We use emoji to determine repository status.
 
 ### Deployment
 
-* [Algo VPN](https://github.com/trailofbits/algo) ⭐ 30,399 | 🐛 81 | 🌐 Python | 📅 2026-09-23 - Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits.
+* [Algo VPN](https://github.com/trailofbits/algo) ⭐ 30,404 | 🐛 81 | 🌐 Python | 📅 2026-09-23 - Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits.
   ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/algo?style=flat-square\&color=informational) :green\_circle:
-* [Firezone](https://github.com/firezone/firezone) ⭐ 9,105 | 🐛 350 | 🌐 Elixir | 📅 2026-09-28 - An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this.
+* [Firezone](https://github.com/firezone/firezone) ⭐ 9,107 | 🐛 348 | 🌐 Elixir | 📅 2026-09-29 - An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this.
   ![GitHub last commit](https://img.shields.io/github/last-commit/firezone/firezone?style=flat-square\&color=informational) :green\_circle:
-* [WireHole](https://github.com/IAmStoxe/wirehole) ⭐ 4,972 | 🐛 62 | 🌐 Shell | 📅 2026-08-25 - A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+* [WireHole](https://github.com/IAmStoxe/wirehole) ⭐ 4,971 | 🐛 62 | 🌐 Shell | 📅 2026-08-25 - A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
   ![GitHub last commit](https://img.shields.io/github/last-commit/IAmStoxe/wirehole?style=flat-square\&color=informational) :red\_circle:
 * [seashell/drago](https://github.com/seashell/drago) ⭐ 1,120 | 🐛 34 | 🌐 Go | 📅 2023-10-13 - A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI.
   ![GitHub last commit](https://img.shields.io/github/last-commit/seashell/drago?style=flat-square\&color=informational) :red\_circle:
-* [Cloudblock](https://github.com/chadgeary/cloudblock) ⭐ 857 | 🐛 2 | 🌐 HCL | 📅 2024-07-06 - Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
+* [Cloudblock](https://github.com/chadgeary/cloudblock) ⭐ 856 | 🐛 2 | 🌐 HCL | 📅 2024-07-06 - Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
   ![GitHub last commit](https://img.shields.io/github/last-commit/chadgeary/cloudblock?style=flat-square\&color=informational) :green\_circle:
 * [ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) ⭐ 698 | 🐛 23 | 🌐 Jinja | 📅 2026-06-15 - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
   ![GitHub last commit](https://img.shields.io/github/last-commit/githubixx/ansible-role-wireguard?style=flat-square\&color=informational) :green\_circle:
-* [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) ⭐ 688 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
+* [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) ⭐ 688 | 🐛 0 | 🌐 Go | 📅 2026-09-29 - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
   ![GitHub last commit](https://img.shields.io/github/last-commit/freifunkMUC/wg-access-server?style=flat-square\&color=informational) :green\_circle:
 * [WirtBot](https://github.com/b-m-f/WirtBot) ⚠️ Archived - Think of it as a component that will allow you to extend your LAN over the Internet. WirtBot simplifies the process of creating your own private network into 3 steps. No registration, no accounts - Just a network that belongs to you. And it will always be completely free (except for the server/VPS you run it on).
   ![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/WirtBot?style=flat-square\&color=informational) :red\_circle:
@@ -213,11 +213,11 @@ We use emoji to determine repository status.
 
 #### Terminal / CLI
 
-* [angristan/WireGuard-install](https://github.com/angristan/wireguard-install) ⭐ 11,300 | 🐛 124 | 🌐 Shell | 📅 2026-05-02 - WireGuard VPN installer for Linux servers.
+* [angristan/WireGuard-install](https://github.com/angristan/wireguard-install) ⭐ 11,304 | 🐛 124 | 🌐 Shell | 📅 2026-05-02 - WireGuard VPN installer for Linux servers.
   ![GitHub last commit](https://img.shields.io/github/last-commit/angristan/wireguard-install?style=flat-square\&color=informational) :red\_circle:
-* [PiVPN](https://github.com/pivpn/pivpn) ⭐ 8,044 | 🐛 13 | 🌐 Shell | 📅 2026-08-30 - The Simplest VPN installer (scripts), designed for Raspberry Pi.
+* [PiVPN](https://github.com/pivpn/pivpn) ⭐ 8,043 | 🐛 13 | 🌐 Shell | 📅 2026-08-30 - The Simplest VPN installer (scripts), designed for Raspberry Pi.
   ![GitHub last commit](https://img.shields.io/github/last-commit/pivpn/pivpn?style=flat-square\&color=informational) :green\_circle:
-* [tun2socks](https://github.com/xjasonlyu/tun2socks) ⭐ 5,509 | 🐛 12 | 🌐 Go | 📅 2026-09-13 - Powered by gVisor TCP/IP stack.
+* [tun2socks](https://github.com/xjasonlyu/tun2socks) ⭐ 5,510 | 🐛 13 | 🌐 Go | 📅 2026-09-13 - Powered by gVisor TCP/IP stack.
   ![GitHub last commit](https://img.shields.io/github/last-commit/xjasonlyu/tun2socks?style=flat-square\&color=informational) :green\_circle:
 * [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) ⭐ 4,929 | 🐛 0 | 🌐 Shell | 📅 2026-09-16 - WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora.
   ![GitHub last commit](https://img.shields.io/github/last-commit/Nyr/wireguard-install?style=flat-square\&color=informational) :green\_circle:
@@ -244,11 +244,11 @@ We use emoji to determine repository status.
 
 #### Web
 
-* [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) ⭐ 27,013 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-25 - The easiest way to run WireGuard VPN + Web-based Admin UI.
+* [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) ⭐ 27,022 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-25 - The easiest way to run WireGuard VPN + Web-based Admin UI.
   ![GitHub last commit](https://img.shields.io/github/last-commit/Wg-easy/wg-easy?style=flat-square\&color=informational) :green\_circle:
-* [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) ⭐ 5,148 | 🐛 210 | 🌐 Go | 📅 2024-08-09 - Simple, have empty interfaces for authentication
+* [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) ⭐ 5,149 | 🐛 210 | 🌐 Go | 📅 2024-08-09 - Simple, have empty interfaces for authentication
   ![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square\&color=informational) :yellow\_circle:
-* [h44z/wg-portal](https://github.com/h44z/wg-portal) ⭐ 1,825 | 🐛 26 | 🌐 Go | 📅 2026-09-28 - Supports LDAP and more
+* [h44z/wg-portal](https://github.com/h44z/wg-portal) ⭐ 1,826 | 🐛 26 | 🌐 Go | 📅 2026-09-28 - Supports LDAP and more
   ![GitHub last commit](https://img.shields.io/github/last-commit/h44z/wg-portal?style=flat-square\&color=informational) :green\_circle:
 * [Subspace](https://github.com/subspacecommunity/subspace) ⭐ 1,804 | 🐛 65 | 🌐 HTML | 📅 2024-06-13 - A simple WireGuard VPN server GUI.
   ![GitHub last commit](https://img.shields.io/github/last-commit/subspacecommunity/subspace?style=flat-square\&color=informational) :red\_circle:
@@ -270,7 +270,7 @@ We use emoji to determine repository status.
 
 #### Dashboards
 
-* [Wireguard Dashboard](https://github.com/donaldzou/wireguard-dashboard) ⭐ 3,733 | 🐛 101 | 🌐 Vue | 📅 2026-09-07 - A simple and easy to use WireGuard dashboard written in Python and Flask.
+* [Wireguard Dashboard](https://github.com/donaldzou/wireguard-dashboard) ⭐ 3,734 | 🐛 101 | 🌐 Vue | 📅 2026-09-07 - A simple and easy to use WireGuard dashboard written in Python and Flask.
   ![GitHub last commit](https://img.shields.io/github/last-commit/donaldzou/wireguard-dashboard?style=flat-square\&color=informational) :green\_circle:
 
 ### Development
@@ -287,13 +287,13 @@ We use emoji to determine repository status.
 
 #### Cloud Service
 
-* [wgcf](https://github.com/ViRb3/wgcf) ⭐ 8,739 | 🐛 29 | 🌐 Go | 📅 2026-09-18 - Cross-platform, unofficial CLI for Cloudflare Warp.
+* [wgcf](https://github.com/ViRb3/wgcf) ⭐ 8,741 | 🐛 29 | 🌐 Go | 📅 2026-09-18 - Cross-platform, unofficial CLI for Cloudflare Warp.
   ![GitHub last commit](https://img.shields.io/github/last-commit/ViRb3/wgcf?style=flat-square\&color=informational) :green\_circle:
 * [Warp](https://blog.cloudflare.com/1111-warp-better-vpn/) - A free WireGuard VPN from Cloudflare that's trying to fix mobile Internet performance and security.
 
 #### VPN
 
-* [Mullvad](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,609 | 🐛 154 | 🌐 Rust | 📅 2026-09-28
+* [Mullvad](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,610 | 🐛 152 | 🌐 Rust | 📅 2026-09-29
   ![GitHub last commit](https://img.shields.io/github/last-commit/mullvad/mullvadvpn-app?style=flat-square\&color=informational) :green\_circle:
 * [MozWire](https://github.com/NilsIrl/MozWire) ⭐ 634 | 🐛 14 | 🌐 Rust | 📅 2025-01-04 - An unofficial configuration manager giving Linux, macOS users (among others), access to Mozilla VPN.
   ![GitHub last commit](https://img.shields.io/github/last-commit/NilsIrl/MozWire?style=flat-square\&color=informational) :green\_circle:
@@ -316,7 +316,7 @@ We use emoji to determine repository status.
 
 Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C and Go, other implementations include:
 
-* [boringtun](https://github.com/cloudflare/boringtun) ⭐ 7,202 | 🐛 109 | 🌐 Rust | 📅 2026-06-29 - Userspace WireGuard implementation in Rust by Cloudflare.
+* [boringtun](https://github.com/cloudflare/boringtun) ⭐ 7,203 | 🐛 109 | 🌐 Rust | 📅 2026-06-29 - Userspace WireGuard implementation in Rust by Cloudflare.
   ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/boringtun?style=flat-square\&color=informational) :yellow\_circle:
 * [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) ⭐ 963 | 🐛 34 | 🌐 C | 📅 2024-04-01 - WireGuard implementation for ESP32 Arduino in C.
   ![GitHub last commit](https://img.shields.io/github/last-commit/ciniml/WireGuard-ESP32-Arduino?style=flat-square\&color=informational) :red\_circle:
@@ -446,4 +446,4 @@ The code in this repository is released under the [MIT license](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
