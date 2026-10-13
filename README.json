@@ -21,7 +21,7 @@
                 "open_issues": 79,
                 "owner": "windtf",
                 "repo": "wireproxy",
-                "stars": 5839,
+                "stars": 5838,
                 "topics": [
                   "golang",
                   "network",
@@ -51,7 +51,7 @@
                 "open_issues": 22,
                 "owner": "coder",
                 "repo": "wush",
-                "stars": 1494,
+                "stars": 1493,
                 "topics": [
                   "file-transfer",
                   "go",
@@ -109,7 +109,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T23:24:42Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "sandialabs",
                 "repo": "wiretap",
                 "stars": 1116,
@@ -303,11 +303,11 @@
                 "id": 273871859,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T05:20:12Z",
-                "open_issues": 133,
+                "last_commit": "2026-10-13T13:14:40Z",
+                "open_issues": 132,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 44564,
+                "stars": 44590,
                 "topics": [
                   "tailscale",
                   "tailscale-control-server",
@@ -329,11 +329,11 @@
                 "id": 357897199,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T18:44:43Z",
-                "open_issues": 874,
+                "last_commit": "2026-10-13T16:49:53Z",
+                "open_issues": 856,
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 29901,
+                "stars": 29931,
                 "topics": [
                   "golang",
                   "mesh",
@@ -361,11 +361,11 @@
                 "id": 351486934,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T15:51:39Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-13T15:43:38Z",
+                "open_issues": 229,
                 "owner": "gravitl",
                 "repo": "netmaker",
-                "stars": 11826,
+                "stars": 11823,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -407,7 +407,7 @@
                 "open_issues": 83,
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5563,
+                "stars": 5564,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
@@ -458,7 +458,7 @@
                 "open_issues": 20,
                 "owner": "costela",
                 "repo": "wesher",
-                "stars": 988,
+                "stars": 989,
                 "topics": [
                   "encryption",
                   "go",
@@ -540,7 +540,7 @@
                 "open_issues": 82,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30413,
+                "stars": 30414,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -569,7 +569,7 @@
                 "id": 257787813,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T18:48:55Z",
+                "last_commit": "2026-10-13T12:06:15Z",
                 "open_issues": 358,
                 "owner": "firezone",
                 "repo": "firezone",
@@ -611,7 +611,7 @@
                 "open_issues": 62,
                 "owner": "IAmStoxe",
                 "repo": "wirehole",
-                "stars": 4975,
+                "stars": 4974,
                 "topics": [
                   "ad-blocking",
                   "adblock",
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "chadgeary",
                 "repo": "cloudblock",
-                "stars": 855,
+                "stars": 856,
                 "topics": [
                   "adblock",
                   "adblocker",
@@ -985,7 +985,7 @@
                     "open_issues": 123,
                     "owner": "angristan",
                     "repo": "wireguard-install",
-                    "stars": 11340,
+                    "stars": 11341,
                     "topics": [
                       "linux",
                       "nat",
@@ -1012,7 +1012,7 @@
                     "open_issues": 13,
                     "owner": "pivpn",
                     "repo": "pivpn",
-                    "stars": 8046,
+                    "stars": 8045,
                     "topics": [
                       "openvpn",
                       "openvpn-installer",
@@ -1174,7 +1174,7 @@
                     "open_issues": 2,
                     "owner": "AndrianBdn",
                     "repo": "wg-cmd",
-                    "stars": 226,
+                    "stars": 225,
                     "topics": [
                       "linux-server",
                       "tui",
@@ -1387,11 +1387,11 @@
                     "id": 369764441,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-06T06:11:20Z",
+                    "last_commit": "2026-10-13T11:39:12Z",
                     "open_issues": 50,
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 27125,
+                    "stars": 27129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
@@ -1412,7 +1412,7 @@
                     "open_issues": 210,
                     "owner": "ngoduykhanh",
                     "repo": "wireguard-ui",
-                    "stars": 5151,
+                    "stars": 5150,
                     "topics": [
                       "wireguard",
                       "wireguard-admin",
@@ -1437,7 +1437,7 @@
                     "id": 310385727,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T13:52:36Z",
+                    "last_commit": "2026-10-13T14:43:53Z",
                     "open_issues": 31,
                     "owner": "h44z",
                     "repo": "wg-portal",
@@ -1469,7 +1469,7 @@
                     "open_issues": 65,
                     "owner": "subspacecommunity",
                     "repo": "subspace",
-                    "stars": 1804,
+                    "stars": 1803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
@@ -1581,7 +1581,7 @@
                     "open_issues": 2,
                     "owner": "TunnlTo",
                     "repo": "desktop-app",
-                    "stars": 1962,
+                    "stars": 1961,
                     "topics": [
                       "split-tunnel",
                       "split-tunneling",
@@ -1664,7 +1664,7 @@
                     "open_issues": 105,
                     "owner": "WGDashboard",
                     "repo": "WGDashboard",
-                    "stars": 3746,
+                    "stars": 3747,
                     "topics": [
                       "dashboard",
                       "flask-application",
@@ -1706,11 +1706,11 @@
                     "id": 255437195,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T23:40:32Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-13T08:48:19Z",
+                    "open_issues": 23,
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8788,
+                    "stars": 8793,
                     "topics": [
                       "client",
                       "cloudflare",
@@ -1742,11 +1742,11 @@
                     "id": 114742422,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-12T18:47:07Z",
-                    "open_issues": 161,
+                    "last_commit": "2026-10-13T15:12:52Z",
+                    "open_issues": 165,
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7657,
+                    "stars": 7662,
                     "topics": [
                       "electron",
                       "nodejs",
@@ -1897,7 +1897,7 @@
                 "open_issues": 108,
                 "owner": "cloudflare",
                 "repo": "boringtun",
-                "stars": 7215,
+                "stars": 7216,
                 "topics": [
                   "cloudflare",
                   "rust",
@@ -2020,7 +2020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:55:33.293Z",
+    "last_updated": "2026-10-13T16:54:00.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WireGuard tools, projects, and resources.",
@@ -2032,7 +2032,7 @@
       "open_issues": 14,
       "owner": "cedrickchee",
       "repo": "awesome-wireguard",
-      "stars": 1505,
+      "stars": 1506,
       "topics": [
         "awesome",
         "awesome-list",
