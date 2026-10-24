@@ -21,7 +21,7 @@
                 "open_issues": 81,
                 "owner": "windtf",
                 "repo": "wireproxy",
-                "stars": 5852,
+                "stars": 5853,
                 "topics": [
                   "golang",
                   "network",
@@ -196,7 +196,7 @@
                 "open_issues": 17,
                 "owner": "naggie",
                 "repo": "dsnet",
-                "stars": 753,
+                "stars": 752,
                 "topics": [
                   "edgeos",
                   "edgerouter",
@@ -303,11 +303,11 @@
                 "id": 273871859,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T04:31:02Z",
-                "open_issues": 136,
+                "last_commit": "2026-10-24T09:27:29Z",
+                "open_issues": 137,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 44925,
+                "stars": 44960,
                 "topics": [
                   "tailscale",
                   "tailscale-control-server",
@@ -329,11 +329,11 @@
                 "id": 357897199,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T13:09:08Z",
-                "open_issues": 795,
+                "last_commit": "2026-10-24T13:00:20Z",
+                "open_issues": 797,
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 30164,
+                "stars": 30179,
                 "topics": [
                   "golang",
                   "mesh",
@@ -361,8 +361,8 @@
                 "id": 351486934,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T09:52:52Z",
-                "open_issues": 213,
+                "last_commit": "2026-10-23T23:43:18Z",
+                "open_issues": 217,
                 "owner": "gravitl",
                 "repo": "netmaker",
                 "stars": 11836,
@@ -407,7 +407,7 @@
                 "open_issues": 85,
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5566,
+                "stars": 5565,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
@@ -428,7 +428,7 @@
                 "open_issues": 98,
                 "owner": "squat",
                 "repo": "kilo",
-                "stars": 2301,
+                "stars": 2300,
                 "topics": [
                   "cni",
                   "federation",
@@ -540,7 +540,7 @@
                 "open_issues": 84,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30435,
+                "stars": 30438,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -569,11 +569,11 @@
                 "id": 257787813,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T13:50:31Z",
-                "open_issues": 368,
+                "last_commit": "2026-10-24T06:38:55Z",
+                "open_issues": 376,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9122,
+                "stars": 9124,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -611,7 +611,7 @@
                 "open_issues": 63,
                 "owner": "IAmStoxe",
                 "repo": "wirehole",
-                "stars": 4978,
+                "stars": 4979,
                 "topics": [
                   "ad-blocking",
                   "adblock",
@@ -982,7 +982,7 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-05-02T15:59:41Z",
-                    "open_issues": 124,
+                    "open_issues": 125,
                     "owner": "angristan",
                     "repo": "wireguard-install",
                     "stars": 11368,
@@ -1389,10 +1389,10 @@
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-23T05:41:24Z",
-                    "open_issues": 51,
+                    "open_issues": 55,
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 27249,
+                    "stars": 27251,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
@@ -1413,7 +1413,7 @@
                     "open_issues": 210,
                     "owner": "ngoduykhanh",
                     "repo": "wireguard-ui",
-                    "stars": 5150,
+                    "stars": 5149,
                     "topics": [
                       "wireguard",
                       "wireguard-admin",
@@ -1442,7 +1442,7 @@
                     "open_issues": 34,
                     "owner": "h44z",
                     "repo": "wg-portal",
-                    "stars": 1848,
+                    "stars": 1847,
                     "topics": [
                       "ldap",
                       "ui",
@@ -1491,7 +1491,7 @@
                     "open_issues": 49,
                     "owner": "vx3r",
                     "repo": "wg-gen-web",
-                    "stars": 1704,
+                    "stars": 1702,
                     "topics": [
                       "docker",
                       "go",
@@ -1520,7 +1520,7 @@
                     "open_issues": 25,
                     "owner": "EmbarkStudios",
                     "repo": "wg-ui",
-                    "stars": 1520,
+                    "stars": 1519,
                     "topics": [
                       "go",
                       "svelte",
@@ -1582,7 +1582,7 @@
                     "open_issues": 2,
                     "owner": "TunnlTo",
                     "repo": "desktop-app",
-                    "stars": 1960,
+                    "stars": 1961,
                     "topics": [
                       "split-tunnel",
                       "split-tunneling",
@@ -1708,10 +1708,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-10-20T19:48:23Z",
-                    "open_issues": 30,
+                    "open_issues": 31,
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8827,
+                    "stars": 8836,
                     "topics": [
                       "client",
                       "cloudflare",
@@ -1743,11 +1743,11 @@
                     "id": 114742422,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T13:50:07Z",
-                    "open_issues": 161,
+                    "last_commit": "2026-10-24T11:52:00Z",
+                    "open_issues": 162,
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7702,
+                    "stars": 7703,
                     "topics": [
                       "electron",
                       "nodejs",
@@ -1898,7 +1898,7 @@
                 "open_issues": 116,
                 "owner": "cloudflare",
                 "repo": "boringtun",
-                "stars": 7229,
+                "stars": 7230,
                 "topics": [
                   "cloudflare",
                   "rust",
@@ -2001,7 +2001,7 @@
                 "open_issues": 0,
                 "owner": "patte",
                 "repo": "fly-tailscale-exit",
-                "stars": 1663,
+                "stars": 1665,
                 "topics": [
                   "exitnode",
                   "flyio",
@@ -2021,7 +2021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:11:26.549Z",
+    "last_updated": "2026-10-24T13:15:39.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WireGuard tools, projects, and resources.",
