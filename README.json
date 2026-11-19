@@ -21,7 +21,7 @@
                 "open_issues": 82,
                 "owner": "windtf",
                 "repo": "wireproxy",
-                "stars": 5905,
+                "stars": 5908,
                 "topics": [
                   "golang",
                   "network",
@@ -51,7 +51,7 @@
                 "open_issues": 21,
                 "owner": "coder",
                 "repo": "wush",
-                "stars": 1496,
+                "stars": 1495,
                 "topics": [
                   "file-transfer",
                   "go",
@@ -77,7 +77,7 @@
                 "open_issues": 13,
                 "owner": "sandialabs",
                 "repo": "wiretap",
-                "stars": 1126,
+                "stars": 1127,
                 "topics": [
                   "golang",
                   "infosec",
@@ -303,11 +303,11 @@
                 "id": 273871859,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T04:53:00Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-19T04:51:44Z",
+                "open_issues": 94,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 45855,
+                "stars": 45885,
                 "topics": [
                   "tailscale",
                   "tailscale-control-server",
@@ -329,11 +329,11 @@
                 "id": 357897199,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T17:48:17Z",
-                "open_issues": 788,
+                "last_commit": "2026-11-19T18:06:20Z",
+                "open_issues": 790,
                 "owner": "netbirdio",
                 "repo": "netbird",
-                "stars": 31089,
+                "stars": 31143,
                 "topics": [
                   "golang",
                   "mesh",
@@ -361,11 +361,11 @@
                 "id": 351486934,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T16:34:46Z",
-                "open_issues": 224,
+                "last_commit": "2026-11-19T16:24:48Z",
+                "open_issues": 225,
                 "owner": "gravitl",
                 "repo": "netmaker",
-                "stars": 11880,
+                "stars": 11882,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -407,7 +407,7 @@
                 "open_issues": 85,
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5586,
+                "stars": 5588,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:28.242Z"
@@ -569,11 +569,11 @@
                 "id": 257787813,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T11:50:13Z",
-                "open_issues": 416,
+                "last_commit": "2026-11-19T14:49:52Z",
+                "open_issues": 406,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9191,
+                "stars": 9195,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -608,7 +608,7 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-08T01:33:29Z",
-                "open_issues": 60,
+                "open_issues": 59,
                 "owner": "IAmStoxe",
                 "repo": "wirehole",
                 "stars": 4976,
@@ -746,8 +746,8 @@
                 "id": 342358823,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-10T21:14:20Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-19T00:35:59Z",
+                "open_issues": 1,
                 "owner": "freifunkMUC",
                 "repo": "wg-access-server",
                 "stars": 691,
@@ -840,7 +840,7 @@
                     "open_issues": 2,
                     "owner": "linuxserver",
                     "repo": "docker-wireguard",
-                    "stars": 3656,
+                    "stars": 3657,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -910,7 +910,7 @@
                     "open_issues": 11,
                     "owner": "bitwister",
                     "repo": "twine",
-                    "stars": 15,
+                    "stars": 14,
                     "topics": [
                       "docker",
                       "firewall",
@@ -1012,7 +1012,7 @@
                     "open_issues": 15,
                     "owner": "pivpn",
                     "repo": "pivpn",
-                    "stars": 8071,
+                    "stars": 8072,
                     "topics": [
                       "openvpn",
                       "openvpn-installer",
@@ -1040,7 +1040,7 @@
                     "open_issues": 13,
                     "owner": "xjasonlyu",
                     "repo": "tun2socks",
-                    "stars": 5582,
+                    "stars": 5583,
                     "topics": [
                       "go",
                       "golang",
@@ -1147,7 +1147,7 @@
                     "open_issues": 10,
                     "owner": "k4yt3x",
                     "repo": "wg-meshconf",
-                    "stars": 1055,
+                    "stars": 1056,
                     "topics": [
                       "mesh-generation",
                       "mesh-networks",
@@ -1388,11 +1388,11 @@
                     "id": 369764441,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-18T10:10:34Z",
-                    "open_issues": 49,
+                    "last_commit": "2026-11-19T13:23:09Z",
+                    "open_issues": 44,
                     "owner": "wg-easy",
                     "repo": "wg-easy",
-                    "stars": 27509,
+                    "stars": 27521,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:28.242Z"
@@ -1413,7 +1413,7 @@
                     "open_issues": 209,
                     "owner": "ngoduykhanh",
                     "repo": "wireguard-ui",
-                    "stars": 5162,
+                    "stars": 5163,
                     "topics": [
                       "wireguard",
                       "wireguard-admin",
@@ -1439,10 +1439,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-11-16T13:52:51Z",
-                    "open_issues": 30,
+                    "open_issues": 31,
                     "owner": "h44z",
                     "repo": "wg-portal",
-                    "stars": 1864,
+                    "stars": 1865,
                     "topics": [
                       "ldap",
                       "ui",
@@ -1661,11 +1661,11 @@
                     "id": 305026947,
                     "language": "Vue",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T20:35:30Z",
+                    "last_commit": "2026-11-18T18:03:04Z",
                     "open_issues": 95,
                     "owner": "WGDashboard",
                     "repo": "WGDashboard",
-                    "stars": 3785,
+                    "stars": 3787,
                     "topics": [
                       "dashboard",
                       "flask-application",
@@ -1707,11 +1707,11 @@
                     "id": 255437195,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T11:42:26Z",
+                    "last_commit": "2026-11-19T11:42:41Z",
                     "open_issues": 33,
                     "owner": "ViRb3",
                     "repo": "wgcf",
-                    "stars": 8910,
+                    "stars": 8908,
                     "topics": [
                       "client",
                       "cloudflare",
@@ -1743,11 +1743,11 @@
                     "id": 114742422,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-18T17:42:05Z",
-                    "open_issues": 173,
+                    "last_commit": "2026-11-19T17:42:36Z",
+                    "open_issues": 167,
                     "owner": "mullvad",
                     "repo": "mullvadvpn-app",
-                    "stars": 7789,
+                    "stars": 7793,
                     "topics": [
                       "electron",
                       "nodejs",
@@ -1835,7 +1835,7 @@
                 "open_issues": 19,
                 "owner": "jwhited",
                 "repo": "wgsd",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "coredns-plugin",
                   "mesh-networks",
@@ -1898,7 +1898,7 @@
                 "open_issues": 116,
                 "owner": "cloudflare",
                 "repo": "boringtun",
-                "stars": 7269,
+                "stars": 7272,
                 "topics": [
                   "cloudflare",
                   "rust",
@@ -1978,7 +1978,7 @@
                 "open_issues": 2,
                 "owner": "linuxserver",
                 "repo": "docker-wireguard",
-                "stars": 3656,
+                "stars": 3657,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2021,7 +2021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:57:27.977Z",
+    "last_updated": "2026-11-19T18:10:15.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WireGuard tools, projects, and resources.",
@@ -2030,7 +2030,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-09-04T03:07:16Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "cedrickchee",
       "repo": "awesome-wireguard",
       "stars": 1513,
